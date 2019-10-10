@@ -1,4 +1,4 @@
-This work refers to the work "Mapping graph state orbits under local complementation", which is free to acess at https://arxiv.org/abs/XXXX.XXXXX.
+This work refers to the work "Mapping graph state orbits under local complementation", which is free to acess at https://arxiv.org/abs/1910.03969 .
 
 For plotting, unpack the files in orbit-data.zip into the same directory as the Mathematica notebooks. You can import either the .mx files, or the csvs, but the .mx are faster.
 
