@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    286818,       6167]
-NotebookOptionsPosition[    281674,       6064]
-NotebookOutlinePosition[    282075,       6081]
-CellTagsIndexPosition[    282032,       6078]
+NotebookDataLength[    263694,       5777]
+NotebookOptionsPosition[    257844,       5660]
+NotebookOutlinePosition[    258244,       5677]
+CellTagsIndexPosition[    258201,       5674]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -492,9 +492,9 @@ Cell[BoxData[{
    3.7765873877108088`*^9}, 3.7766046526244946`*^9, {3.777809462599609*^9, 
    3.7778094628464484`*^9}, 3.777891963103365*^9, {3.777896242965534*^9, 
    3.7778962608735666`*^9}, 3.779560037467167*^9, {3.7912009642534113`*^9, 
-   3.7912009643950653`*^9}},ExpressionUUID->"2d067464-a022-4d79-8071-\
-4fdcf6a0eb05"]
-}, Open  ]],
+   3.7912009643950653`*^9}},
+ CellLabel->"In[38]:=",ExpressionUUID->"2d067464-a022-4d79-8071-4fdcf6a0eb05"]
+}, Closed]],
 
 Cell[CellGroupData[{
 
@@ -648,7 +648,7 @@ Cell[BoxData[{
    3.769513395219993*^9, 3.769513398342305*^9}, {3.7695135027039833`*^9, 
    3.7695135092899837`*^9}, 3.7695136114699836`*^9, {3.7728033907970333`*^9, 
    3.7728033980432205`*^9}},
- CellLabel->"In[69]:=",ExpressionUUID->"43a681a6-74ba-4fbd-a7c5-f581334ff521"]
+ CellLabel->"In[71]:=",ExpressionUUID->"43a681a6-74ba-4fbd-a7c5-f581334ff521"]
 }, Closed]],
 
 Cell[CellGroupData[{
@@ -801,7 +801,7 @@ Cell[BoxData[{
    3.7695115848061743`*^9, 3.769511589590131*^9}, {3.7695133358670588`*^9, 
    3.7695133556600375`*^9}, 3.769513554622984*^9, 3.7695136114829836`*^9, {
    3.7728033908060274`*^9, 3.7728033981031895`*^9}},
- CellLabel->"In[76]:=",ExpressionUUID->"e4b71112-6d99-460d-b097-1ac83b22f570"]
+ CellLabel->"In[78]:=",ExpressionUUID->"e4b71112-6d99-460d-b097-1ac83b22f570"]
 }, Closed]],
 
 Cell[CellGroupData[{
@@ -955,7 +955,7 @@ Cell[BoxData[{
    3.7695115915295186`*^9, 3.769511592352683*^9}, 3.7695134003765087`*^9, 
    3.7695135601709833`*^9, 3.7695136114899836`*^9, {3.772803390814006*^9, 
    3.7728033981622305`*^9}},
- CellLabel->"In[83]:=",ExpressionUUID->"ac43734c-b85a-407e-8eff-7481bccd98cb"]
+ CellLabel->"In[85]:=",ExpressionUUID->"ac43734c-b85a-407e-8eff-7481bccd98cb"]
 }, Closed]],
 
 Cell[CellGroupData[{
@@ -1108,7 +1108,7 @@ Cell[BoxData[{
    3.769511392961813*^9, 3.7695113929998207`*^9}, 3.769511597453703*^9, 
    3.769511629255062*^9, 3.769513403638835*^9, 3.7695135625269833`*^9, 
    3.7695136114989834`*^9, {3.7728033908210225`*^9, 3.772803398223194*^9}},
- CellLabel->"In[90]:=",ExpressionUUID->"e2468250-3ee0-4097-8787-2a194d17cc0b"]
+ CellLabel->"In[92]:=",ExpressionUUID->"e2468250-3ee0-4097-8787-2a194d17cc0b"]
 }, Closed]],
 
 Cell[CellGroupData[{
@@ -1282,7 +1282,7 @@ Cell[BoxData[{
    3.7695127745529327`*^9}, 3.7695134062709837`*^9, 3.769513566096984*^9, 
    3.7695136115059834`*^9, {3.7728033908290195`*^9, 3.7728033982928467`*^9}, {
    3.7728035518972316`*^9, 3.7728035999121094`*^9}},
- CellLabel->"In[97]:=",ExpressionUUID->"274d9b41-f22d-4844-8486-a7c26eb60caa"],
+ CellLabel->"In[99]:=",ExpressionUUID->"274d9b41-f22d-4844-8486-a7c26eb60caa"],
 
 Cell[CellGroupData[{
 
@@ -1290,34 +1290,38 @@ Cell[BoxData["\<\"Import successfull. Converting to string for processing..\"\
 \>"], "Print",
  CellChangeTimes->{{3.772803541499118*^9, 3.7728035652762556`*^9}, 
    3.772803600564492*^9, 3.7728036495694747`*^9, 3.7728037086762495`*^9, 
-   3.779560058843152*^9},
+   3.779560058843152*^9, 3.7916276516967754`*^9, 3.7916282823009205`*^9, 
+   3.7916284493191757`*^9},
  CellLabel->
   "During evaluation of \
-In[97]:=",ExpressionUUID->"7e42beae-0683-4594-986d-7a628c33ae17"],
+In[99]:=",ExpressionUUID->"11f45752-8ddd-471f-b78b-32fa567df037"],
 
 Cell[BoxData["\<\"Success! Processing string..\"\>"], "Print",
  CellChangeTimes->{{3.772803541499118*^9, 3.7728035652762556`*^9}, 
    3.772803600564492*^9, 3.7728036495694747`*^9, 3.7728037086762495`*^9, 
-   3.7795600589201097`*^9},
+   3.779560058843152*^9, 3.7916276516967754`*^9, 3.7916282823009205`*^9, 
+   3.7916284493640566`*^9},
  CellLabel->
   "During evaluation of \
-In[97]:=",ExpressionUUID->"a3916aa6-954d-43e2-b72e-769e99cda6b7"],
+In[99]:=",ExpressionUUID->"273c0199-c1f3-4db8-96cd-ec7a012f8edf"],
 
 Cell[BoxData["\<\"Success! Generating orbits..\"\>"], "Print",
  CellChangeTimes->{{3.772803541499118*^9, 3.7728035652762556`*^9}, 
    3.772803600564492*^9, 3.7728036495694747`*^9, 3.7728037086762495`*^9, 
-   3.77956006012718*^9},
+   3.779560058843152*^9, 3.7916276516967754`*^9, 3.7916282823009205`*^9, 
+   3.7916284500522156`*^9},
  CellLabel->
   "During evaluation of \
-In[97]:=",ExpressionUUID->"f37e36c3-97ee-43ea-847c-500018a92410"],
+In[99]:=",ExpressionUUID->"cacafbcc-912f-458c-94cd-5ad3b930aa6c"],
 
 Cell[BoxData["\<\"Success! Done.\"\>"], "Print",
  CellChangeTimes->{{3.772803541499118*^9, 3.7728035652762556`*^9}, 
    3.772803600564492*^9, 3.7728036495694747`*^9, 3.7728037086762495`*^9, 
-   3.779560063262594*^9},
+   3.779560058843152*^9, 3.7916276516967754`*^9, 3.7916282823009205`*^9, 
+   3.7916284541931305`*^9},
  CellLabel->
   "During evaluation of \
-In[97]:=",ExpressionUUID->"36bbdd77-4281-4065-92cf-942c909f64f7"]
+In[99]:=",ExpressionUUID->"9d9e4551-ae97-423e-9bcf-b54d4d859bba"]
 }, Open  ]]
 }, Open  ]]
 }, Closed]],
@@ -1331,6 +1335,8 @@ Cell["9 qubit (takes tens of minutes)", "Subsubsection",
   3.7695117583013177`*^9}},ExpressionUUID->"c42432ab-bba7-45f2-8f9d-\
 73c4be21f146"],
 
+Cell[CellGroupData[{
+
 Cell[BoxData[{
  RowBox[{
   RowBox[{"nineCidat", "=", 
@@ -1341,8 +1347,9 @@ Cell[BoxData[{
   "Print", "[", 
    "\"\<Import successfull. Converting to string for processing..\>\"", "]"}],
    ";"}], "\[IndentingNewLine]", 
- RowBox[{"nineCidat", "=", 
-  RowBox[{"ToString", "@", "nineCidat"}]}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"nineCidat", "=", 
+   RowBox[{"ToString", "@", "nineCidat"}]}], ";"}], "\[IndentingNewLine]", 
  RowBox[{
   RowBox[{"Print", "[", "\"\<Successfull. Processing string..\>\"", "]"}], 
   ";"}], "\[IndentingNewLine]", 
@@ -1366,11 +1373,34 @@ Cell[BoxData[{
   ";"}], "\[IndentingNewLine]", 
  RowBox[{
   RowBox[{"nineCidat", "=", 
-   RowBox[{"ToExpression", "@", "nineCidat"}]}], ";"}], "\[IndentingNewLine]", 
+   RowBox[{"ToExpression", "@", "nineCidat"}]}], ";"}]}], "Input",
+ CellChangeTimes->{{3.791628514996664*^9, 3.7916285318805304`*^9}},
+ CellLabel->
+  "In[132]:=",ExpressionUUID->"53391037-9d57-4855-9650-69e45cef23ea"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData["\<\"Import successfull. Converting to string for processing..\"\
+\>"], "Print",
+ CellChangeTimes->{3.791628479824355*^9, 3.7916285443142834`*^9},
+ CellLabel->
+  "During evaluation of \
+In[132]:=",ExpressionUUID->"588d0384-9779-4445-a4af-f773e14884b8"],
+
+Cell[BoxData["\<\"Successfull. Processing string..\"\>"], "Print",
+ CellChangeTimes->{3.791628479824355*^9, 3.791628545203868*^9},
+ CellLabel->
+  "During evaluation of \
+In[132]:=",ExpressionUUID->"ddcec8d7-d158-4b88-a2be-ffd08f7e3692"]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
  RowBox[{
-  RowBox[{
-   RowBox[{"Print", "[", "\"\<Success! Generating orbits..\>\"", "]"}], ";"}],
-   "\[IndentingNewLine]"}], "\[IndentingNewLine]", 
+  RowBox[{"Print", "[", "\"\<Success! Generating orbits..\>\"", "]"}], 
+  ";"}], "\[IndentingNewLine]", 
  RowBox[{
   RowBox[{
    RowBox[{"Do", "[", "\[IndentingNewLine]", 
@@ -1392,33 +1422,33 @@ Cell[BoxData[{
            RowBox[{"nineCidat", "\[Transpose]"}], "[", 
            RowBox[{"[", "3", "]"}], "]"}], "[", 
           RowBox[{"[", "i", "]"}], "]"}], ",", 
-         RowBox[{
-          RowBox[{"EdgeLabels", "\[Rule]", 
-           RowBox[{"Thread", "[", 
+         RowBox[{"EdgeLabels", "\[Rule]", 
+          RowBox[{"Thread", "[", 
+           RowBox[{
             RowBox[{
              RowBox[{
               RowBox[{
                RowBox[{
-                RowBox[{
-                 RowBox[{"nineCidat", "\[Transpose]"}], "[", 
-                 RowBox[{"[", "4", "]"}], "]"}], "[", 
-                RowBox[{"[", "i", "]"}], "]"}], "\[Transpose]"}], "[", 
-              RowBox[{"[", "1", "]"}], "]"}], "->", 
+                RowBox[{"nineCidat", "\[Transpose]"}], "[", 
+                RowBox[{"[", "4", "]"}], "]"}], "[", 
+               RowBox[{"[", "i", "]"}], "]"}], "\[Transpose]"}], "[", 
+             RowBox[{"[", "1", "]"}], "]"}], "->", 
+            RowBox[{
              RowBox[{
               RowBox[{
                RowBox[{
-                RowBox[{
-                 RowBox[{"nineCidat", "\[Transpose]"}], "[", 
-                 RowBox[{"[", "4", "]"}], "]"}], "[", 
-                RowBox[{"[", "i", "]"}], "]"}], "\[Transpose]"}], "[", 
-              RowBox[{"[", "2", "]"}], "]"}]}], "]"}]}], ";", 
-          "\[IndentingNewLine]", 
-          RowBox[{"Print", "[", "i", "]"}], ";"}]}], "]"}]}], ";"}], 
+                RowBox[{"nineCidat", "\[Transpose]"}], "[", 
+                RowBox[{"[", "4", "]"}], "]"}], "[", 
+               RowBox[{"[", "i", "]"}], "]"}], "\[Transpose]"}], "[", 
+             RowBox[{"[", "2", "]"}], "]"}]}], "]"}]}]}], "]"}]}], ";"}], 
      "\[IndentingNewLine]", ",", 
      RowBox[{"{", 
       RowBox[{"i", ",", 
        RowBox[{"Length", "@", "nineCiorbits"}]}], "}"}]}], "]"}], ";"}], 
   "\[IndentingNewLine]"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"Print", "[", "\"\<Success! Generating graphlist..\>\"", "]"}], 
+  ";"}], "\[IndentingNewLine]", 
  RowBox[{
   RowBox[{"Do", "[", "\[IndentingNewLine]", 
    RowBox[{
@@ -1463,9 +1493,8 @@ Cell[BoxData[{
         "\[IndentingNewLine]", 
         RowBox[{"VertexStyle", "\[Rule]", 
          RowBox[{"{", "}"}]}], ",", "\[IndentingNewLine]", 
-        RowBox[{"VertexLabels", "\[Rule]", "None"}]}], "]"}]}], ";", 
-     "\[IndentingNewLine]", 
-     RowBox[{"Print", "[", "i", "]"}], ";"}], "\[IndentingNewLine]", ",", 
+        RowBox[{"VertexLabels", "\[Rule]", "None"}]}], "]"}]}], ";"}], 
+    "\[IndentingNewLine]", ",", 
     RowBox[{"{", 
      RowBox[{"i", ",", 
       RowBox[{"Length", "@", "nineCidat"}]}], "}"}], ",", 
@@ -1493,9 +1522,35 @@ Cell[BoxData[{
    3.7695116111344385`*^9, 3.7695116119095936`*^9}, {3.7695127834808254`*^9, 
    3.769512789478425*^9}, 3.769513414379984*^9, 3.7695135691409836`*^9, 
    3.7695136114559836`*^9, {3.7728033908370132`*^9, 3.772803398359809*^9}, {
-   3.7728036070490704`*^9, 3.772803614736787*^9}},
+   3.7728036070490704`*^9, 3.772803614736787*^9}, 3.7916282985848722`*^9, {
+   3.7916284575232162`*^9, 3.7916284712714157`*^9}, {3.7916285178639927`*^9, 
+   3.7916285555262365`*^9}},ExpressionUUID->"139c670b-916e-48b3-be9b-\
+ff0012dc3b7c"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData["\<\"Success! Generating orbits..\"\>"], "Print",
+ CellChangeTimes->{3.791627651911208*^9, 3.7916284563782806`*^9, 
+  3.791628500775529*^9, 3.791628561845323*^9},
  CellLabel->
-  "In[122]:=",ExpressionUUID->"139c670b-916e-48b3-be9b-ff0012dc3b7c"]
+  "During evaluation of \
+In[140]:=",ExpressionUUID->"93d681e7-7fcd-496c-986d-05df07fc4467"],
+
+Cell[BoxData["\<\"Success! Generating graphlist..\"\>"], "Print",
+ CellChangeTimes->{3.791627651911208*^9, 3.7916284563782806`*^9, 
+  3.791628500775529*^9, 3.7916285663323126`*^9},
+ CellLabel->
+  "During evaluation of \
+In[140]:=",ExpressionUUID->"82270205-684c-418f-8143-099fe8dd1cba"],
+
+Cell[BoxData["\<\"Success! Done.\"\>"], "Print",
+ CellChangeTimes->{3.791627651911208*^9, 3.7916284563782806`*^9, 
+  3.791628500775529*^9, 3.791628668330385*^9},
+ CellLabel->
+  "During evaluation of \
+In[140]:=",ExpressionUUID->"92b86004-6fdb-4ffc-8bd2-5fe0c5d7806b"]
+}, Open  ]]
+}, Open  ]]
 }, Closed]],
 
 Cell[CellGroupData[{
@@ -1542,9 +1597,9 @@ Cell[BoxData[{
   3.7728033983638067`*^9, 3.7728033984167995`*^9}, {3.7728053822002087`*^9, 
   3.772805390661682*^9}},
  CellLabel->
-  "In[109]:=",ExpressionUUID->"3bf8d525-6733-4182-a42a-b30ff639a708"]
-}, Open  ]]
-}, Open  ]],
+  "In[145]:=",ExpressionUUID->"3bf8d525-6733-4182-a42a-b30ff639a708"]
+}, Closed]]
+}, Closed]],
 
 Cell[CellGroupData[{
 
@@ -1593,8 +1648,9 @@ Cell[BoxData[{
    3.7766056923686433`*^9, 3.776605776555964*^9}, {3.776605856619109*^9, 
    3.776605877811185*^9}, {3.776605916777237*^9, 3.776605921649539*^9}, {
    3.7766071015651093`*^9, 3.776607101755994*^9}, {3.7795599958629103`*^9, 
-   3.7795599988560686`*^9}},ExpressionUUID->"b2651e37-3d3c-435f-9719-\
-78b8526ecbab"]
+   3.7795599988560686`*^9}},
+ CellLabel->
+  "In[148]:=",ExpressionUUID->"b2651e37-3d3c-435f-9719-78b8526ecbab"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]],
@@ -2777,8 +2833,7 @@ Cell[BoxData[{
    3.7783370035311637`*^9}, {3.7784144814181128`*^9, 3.778414482623933*^9}, {
    3.778414519956422*^9, 3.778414520982768*^9}, {3.778414592778706*^9, 
    3.778414637904163*^9}},
- CellLabel->
-  "In[123]:=",ExpressionUUID->"22bda154-9acb-4934-b086-f16c8f96ee23"]
+ CellLabel->"In[34]:=",ExpressionUUID->"22bda154-9acb-4934-b086-f16c8f96ee23"]
 }, Closed]],
 
 Cell[CellGroupData[{
@@ -2916,7 +2971,7 @@ Cell[BoxData[{
    3.77833615921576*^9, 3.778336159724462*^9}, {3.77833770386343*^9, 
    3.7783377043390846`*^9}, {3.778414560492807*^9, 3.778414578555749*^9}},
  CellLabel->
-  "In[112]:=",ExpressionUUID->"fd59f28c-5282-49e9-bafb-8236bc9e8cd4"]
+  "In[151]:=",ExpressionUUID->"fd59f28c-5282-49e9-bafb-8236bc9e8cd4"]
 }, Open  ]],
 
 Cell[CellGroupData[{
@@ -2998,7 +3053,7 @@ Cell[BoxData[{
    3.7784146152133985`*^9, 3.7784147803065844`*^9}, {3.7784148215887723`*^9, 
    3.7784148698323107`*^9}},
  CellLabel->
-  "In[127]:=",ExpressionUUID->"438ab07c-3f1e-4695-ad9a-cf93a5eb67c2"],
+  "In[162]:=",ExpressionUUID->"438ab07c-3f1e-4695-ad9a-cf93a5eb67c2"],
 
 Cell[CellGroupData[{
 
@@ -3008,14 +3063,10 @@ Cell[BoxData[
    GraphicsBox[
     NamespaceBox["NetworkGraphics",
      DynamicModuleBox[{Typeset`graph = HoldComplete[
-       Graph[{1, 2, 3, 4, 5, 6}, {Null, 
-         SparseArray[
-         Automatic, {6, 6}, 0, {
-          1, {{0, 1, 3, 5, 7, 9, 10}, {{2}, {1}, {3}, {2}, {4}, {3}, {5}, {
-            4}, {6}, {5}}}, Pattern}]}, {EdgeStyle -> {
-           Thickness[0.024]}, GraphLayout -> "CircularEmbedding", 
-         ImagePadding -> 10, ImageSize -> 100, VertexLabels -> {None}, 
-         VertexSize -> {0.3}}]]}, 
+       Graph[{1, 2, 3, 4, 5, 6}, {
+        Null, {{1, 2}, {2, 3}, {3, 4}, {4, 5}, {5, 6}}}, {
+        GraphLayout -> "CircularEmbedding", ImagePadding -> 23, ImageSize -> 
+         120, VertexSize -> {0.2}}]]}, 
       TagBox[
        GraphicsGroupBox[
         GraphicsComplexBox[{{-0.8660254037844389, 
@@ -3023,33 +3074,26 @@ Cell[BoxData[
          3.8285686989269494`*^-16, -1.}, {
          0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
          0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
-          {Hue[0.6, 0.7, 0.5], Thickness[0.024], Opacity[0.7], 
-           {Arrowheads[0.], ArrowBox[{1, 2}, 0.14999999999999988`]}, 
-           {Arrowheads[0.], ArrowBox[{2, 3}, 0.14999999999999988`]}, 
-           {Arrowheads[0.], ArrowBox[{3, 4}, 0.14999999999999988`]}, 
-           {Arrowheads[0.], ArrowBox[{4, 5}, 0.14999999999999988`]}, 
-           {Arrowheads[0.], ArrowBox[{5, 6}, 0.14999999999999988`]}}, 
+          {Hue[0.6, 0.7, 0.5], Opacity[0.7], 
+           LineBox[{{1, 2}, {2, 3}, {3, 4}, {4, 5}, {5, 6}}]}, 
           {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
-           DiskBox[1, 0.14999999999999988], DiskBox[2, 0.14999999999999988], 
-           DiskBox[3, 0.14999999999999988], DiskBox[4, 0.14999999999999988], 
-           DiskBox[5, 0.14999999999999988], 
-           DiskBox[6, 0.14999999999999988]}}]],
+           DiskBox[1, 0.09999999999999994], DiskBox[2, 0.09999999999999994], 
+           DiskBox[3, 0.09999999999999994], DiskBox[4, 0.09999999999999994], 
+           DiskBox[5, 0.09999999999999994], 
+           DiskBox[6, 0.09999999999999994]}}]],
        MouseAppearanceTag["NetworkGraphics"]],
       AllowKernelInitialization->False]],
     DefaultBaseStyle->{
      "NetworkGraphics", FrontEnd`GraphicsHighlightColor -> Hue[0.8, 1., 0.6]},
     FormatType->TraditionalForm,
     FrameTicks->None,
-    ImagePadding->10,
-    ImageSize->100]}],
+    ImagePadding->23,
+    ImageSize->120]}],
   SequenceForm["First graph in orbit is: ", 
-   Graph[{1, 2, 3, 4, 5, 6}, {Null, 
-     SparseArray[
-     Automatic, {6, 6}, 0, {
-      1, {{0, 1, 3, 5, 7, 9, 10}, {{2}, {1}, {3}, {2}, {4}, {3}, {5}, {4}, {
-        6}, {5}}}, Pattern}]}, {EdgeStyle -> {
-       Thickness[0.024]}, GraphLayout -> "CircularEmbedding", ImagePadding -> 
-     10, ImageSize -> 100, VertexLabels -> {None}, VertexSize -> {0.3}}]],
+   Graph[{1, 2, 3, 4, 5, 6}, {
+    Null, {{1, 2}, {2, 3}, {3, 4}, {4, 5}, {5, 6}}}, {
+    GraphLayout -> "CircularEmbedding", ImagePadding -> 23, ImageSize -> 120, 
+     VertexSize -> {0.2}}]],
   Editable->False]], "Print",
  CellChangeTimes->{{3.769345830236459*^9, 3.7693458423754587`*^9}, 
    3.769349008322801*^9, 3.7693490994991455`*^9, 3.769349393616994*^9, 
@@ -3086,10 +3130,10 @@ Cell[BoxData[
    3.7783361609896545`*^9}, 3.778337008266876*^9, 3.7783377056184273`*^9, {
    3.778414553940363*^9, 3.7784145827669296`*^9}, {3.778414617805806*^9, 
    3.778414780642683*^9}, {3.7784148218292284`*^9, 3.7784148704389377`*^9}, 
-   3.779560074687081*^9},
+   3.779560074687081*^9, 3.791627653270563*^9, 3.7916287050139203`*^9},
  CellLabel->
   "During evaluation of \
-In[127]:=",ExpressionUUID->"0786f2a0-515d-4ee4-8cf8-fe10f71ed89e"],
+In[162]:=",ExpressionUUID->"1797ddbb-0926-4bd6-856f-98ae51a03d8f"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -3132,10 +3176,10 @@ Cell[BoxData[
    3.7783361609896545`*^9}, 3.778337008266876*^9, 3.7783377056184273`*^9, {
    3.778414553940363*^9, 3.7784145827669296`*^9}, {3.778414617805806*^9, 
    3.778414780642683*^9}, {3.7784148218292284`*^9, 3.7784148704389377`*^9}, 
-   3.779560074693078*^9},
+   3.779560074687081*^9, 3.791627653270563*^9, 3.791628705019905*^9},
  CellLabel->
   "During evaluation of \
-In[127]:=",ExpressionUUID->"862b240e-7be2-4371-bfb1-e63f431ba553"],
+In[162]:=",ExpressionUUID->"7e70284d-5be5-4724-bd34-e4a7b898e13d"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -3179,6 +3223,13 @@ D3T9lHqz+kyvK2r+t5ondP+zUm2/cN5y0P9jmi35AjBSeaY=
       GrayLevel[0.5, 0.4]],
     Method->{
      "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
+      "DefaultGraphicsInteraction" -> {
+       "Version" -> 1.2, "TrackMousePosition" -> {True, False}, 
+        "Effects" -> {
+         "Highlight" -> {"ratio" -> 2}, "HighlightPoint" -> {"ratio" -> 2}, 
+          "Droplines" -> {
+           "freeformCursorMode" -> True, 
+            "placement" -> {"x" -> "All", "y" -> "None"}}}}, 
       "DefaultPlotStyle" -> Automatic, "DomainPadding" -> Scaled[0.02], 
       "RangePadding" -> Scaled[0.05]}]}],
   SequenceForm["Adjacency matrix of orbit is: ", 
@@ -3200,6 +3251,13 @@ D3T9lHqz+kyvK2r+t5ondP+zUm2/cN5y0P9jmi35AjBSeaY=
       GrayLevel[0.5, 0.4]], 
     Method -> {
      "AxisPadding" -> Scaled[0.02], "DefaultBoundaryStyle" -> Automatic, 
+      "DefaultGraphicsInteraction" -> {
+       "Version" -> 1.2, "TrackMousePosition" -> {True, False}, 
+        "Effects" -> {
+         "Highlight" -> {"ratio" -> 2}, "HighlightPoint" -> {"ratio" -> 2}, 
+          "Droplines" -> {
+           "freeformCursorMode" -> True, 
+            "placement" -> {"x" -> "All", "y" -> "None"}}}}, 
       "DefaultPlotStyle" -> Automatic, "DomainPadding" -> Scaled[0.02], 
       "RangePadding" -> Scaled[0.05]}]],
   Editable->False]], "Print",
@@ -3238,10 +3296,10 @@ D3T9lHqz+kyvK2r+t5ondP+zUm2/cN5y0P9jmi35AjBSeaY=
    3.7783361609896545`*^9}, 3.778337008266876*^9, 3.7783377056184273`*^9, {
    3.778414553940363*^9, 3.7784145827669296`*^9}, {3.778414617805806*^9, 
    3.778414780642683*^9}, {3.7784148218292284`*^9, 3.7784148704389377`*^9}, 
-   3.7795600750438323`*^9},
+   3.779560074687081*^9, 3.791627653270563*^9, 3.7916287051077166`*^9},
  CellLabel->
   "During evaluation of \
-In[127]:=",ExpressionUUID->"e783901e-f0a5-4062-ad26-d1a8d5fa6294"]
+In[162]:=",ExpressionUUID->"f2e542be-7565-44d5-a151-9bdf7063565e"]
 }, Open  ]],
 
 Cell[BoxData[
@@ -3261,7 +3319,7 @@ Cell[BoxData[
           18}, {19}, {23}, {20}, {24}, {25}, {25}}}, {1, 1, 1, 1, 1, 1, 1, 1, 
          1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 
          1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 
-         1, 1, 1, 1}}]}, {EdgeLabels -> {None}, EdgeLabelStyle -> {
+         1, 1, 1, 1}}]}, {EdgeLabelStyle -> {
          Directive[
           GrayLevel[0], 12]}, EdgeStyle -> {
          Thickness[0.004]}, GraphLayout -> "SpringElectricalEmbedding", 
@@ -3272,33 +3330,18 @@ Cell[BoxData[
          None, 8 -> None, 18 -> None, 2 -> None, 10 -> None, 3 -> None, 11 -> 
          None, 25 -> None}, VertexShape -> {20 -> Graphics[{
             
-            GraphicsComplex[{{-0.8660254037844389, 
-             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
+            GraphicsComplex[{{-0.8660254037844389, 0.5000000000000008}, {
+             0.8660254037844389, -0.5000000000000012}, {
+             1.8369701987210297`*^-16, 1.}, {0.8660254037844386, 
+             0.4999999999999993}, {-0.8660254037844384, \
+-0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}}, {{
                Directive[
                 Opacity[0.7], 
                 Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{5, 6}, 0.19999999999999987`]}}, {
+               Thickness[0.004], 
+               
+               Line[{{1, 3}, {1, 4}, {1, 5}, {2, 3}, {2, 4}, {2, 5}, {3, 4}, {
+                3, 5}, {5, 6}}]}, {
                Directive[
                 Hue[0.6, 0.2, 0.8], 
                 EdgeForm[
@@ -3316,7 +3359,195 @@ Cell[BoxData[
               Thickness[0.02]], 
              Circle[{0, 0}, 1.6]}}, {
            ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 24 -> Graphics[{
+            None, ImagePadding -> 0, ImageSize -> 120}], 24 -> Graphics[{
+            
+            GraphicsComplex[{{-0.8660254037844389, 0.5000000000000008}, {
+             0.8660254037844389, -0.5000000000000012}, {
+             1.8369701987210297`*^-16, 1.}, {3.8285686989269494`*^-16, -1.}, {
+             0.8660254037844386, 
+             0.4999999999999993}, {-0.8660254037844384, \
+-0.49999999999999933`}}, {{
+               Directive[
+                Opacity[0.7], 
+                Hue[0.6, 0.7, 0.5]], 
+               Thickness[0.004], 
+               
+               Line[{{1, 3}, {1, 5}, {1, 6}, {2, 3}, {2, 5}, {2, 6}, {3, 5}, {
+                3, 6}, {4, 5}, {4, 6}, {5, 6}}]}, {
+               Directive[
+                Hue[0.6, 0.2, 0.8], 
+                EdgeForm[
+                 Directive[
+                  GrayLevel[0], 
+                  Opacity[0.7]]]], 
+               Disk[1, 0.19999999999999987`], 
+               Disk[2, 0.19999999999999987`], 
+               Disk[3, 0.19999999999999987`], 
+               Disk[4, 0.19999999999999987`], 
+               Disk[5, 0.19999999999999987`], 
+               Disk[6, 0.19999999999999987`]}}], {
+             Directive[
+              GrayLevel[0], 
+              Thickness[0.02]], 
+             Circle[{0, 0}, 1.6]}}, {
+           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
+            None, ImagePadding -> 0, ImageSize -> 120}], 3 -> Graphics[{
+            
+            GraphicsComplex[{{-0.8660254037844389, 
+             0.5000000000000008}, {-0.8660254037844384, \
+-0.49999999999999933`}, {1.8369701987210297`*^-16, 1.}, {
+             3.8285686989269494`*^-16, -1.}, {
+             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
+             0.4999999999999993}}, {{
+               Directive[
+                Opacity[0.7], 
+                Hue[0.6, 0.7, 0.5]], 
+               Thickness[0.004], 
+               Line[{{1, 2}, {2, 3}, {2, 4}, {3, 4}, {4, 5}, {5, 6}}]}, {
+               Directive[
+                Hue[0.6, 0.2, 0.8], 
+                EdgeForm[
+                 Directive[
+                  GrayLevel[0], 
+                  Opacity[0.7]]]], 
+               Disk[1, 0.19999999999999987`], 
+               Disk[2, 0.19999999999999987`], 
+               Disk[3, 0.19999999999999987`], 
+               Disk[4, 0.19999999999999987`], 
+               Disk[5, 0.19999999999999987`], 
+               Disk[6, 0.19999999999999987`]}}], {
+             Directive[
+              GrayLevel[0], 
+              Thickness[0.02]], 
+             Circle[{0, 0}, 1.6]}}, {
+           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
+            None, ImagePadding -> 0, ImageSize -> 120}], 13 -> Graphics[{
+            
+            GraphicsComplex[{{-0.8660254037844389, 0.5000000000000008}, {
+             1.8369701987210297`*^-16, 1.}, {
+             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
+             0.4999999999999993}, {-0.8660254037844384, \
+-0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}}, {{
+               Directive[
+                Opacity[0.7], 
+                Hue[0.6, 0.7, 0.5]], 
+               Thickness[0.004], 
+               
+               Line[{{1, 2}, {1, 4}, {1, 5}, {2, 4}, {2, 5}, {3, 4}, {3, 5}, {
+                5, 6}}]}, {
+               Directive[
+                Hue[0.6, 0.2, 0.8], 
+                EdgeForm[
+                 Directive[
+                  GrayLevel[0], 
+                  Opacity[0.7]]]], 
+               Disk[1, 0.19999999999999987`], 
+               Disk[2, 0.19999999999999987`], 
+               Disk[3, 0.19999999999999987`], 
+               Disk[4, 0.19999999999999987`], 
+               Disk[5, 0.19999999999999987`], 
+               Disk[6, 0.19999999999999987`]}}], {
+             Directive[
+              GrayLevel[0], 
+              Thickness[0.02]], 
+             Circle[{0, 0}, 1.6]}}, {
+           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
+            None, ImagePadding -> 0, ImageSize -> 120}], 15 -> Graphics[{
+            
+            GraphicsComplex[{{-0.8660254037844389, 0.5000000000000008}, {
+             0.8660254037844386, 0.4999999999999993}, {
+             1.8369701987210297`*^-16, 
+             1.}, {-0.8660254037844384, -0.49999999999999933`}, {
+             0.8660254037844389, -0.5000000000000012}, {
+             3.8285686989269494`*^-16, -1.}}, {{
+               Directive[
+                Opacity[0.7], 
+                Hue[0.6, 0.7, 0.5]], 
+               Thickness[0.004], 
+               
+               Line[{{1, 3}, {1, 4}, {2, 3}, {2, 4}, {3, 4}, {4, 5}, {4, 6}, {
+                5, 6}}]}, {
+               Directive[
+                Hue[0.6, 0.2, 0.8], 
+                EdgeForm[
+                 Directive[
+                  GrayLevel[0], 
+                  Opacity[0.7]]]], 
+               Disk[1, 0.19999999999999987`], 
+               Disk[2, 0.19999999999999987`], 
+               Disk[3, 0.19999999999999987`], 
+               Disk[4, 0.19999999999999987`], 
+               Disk[5, 0.19999999999999987`], 
+               Disk[6, 0.19999999999999987`]}}], {
+             Directive[
+              GrayLevel[0], 
+              Thickness[0.02]], 
+             Circle[{0, 0}, 1.6]}}, {
+           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
+            None, ImagePadding -> 0, ImageSize -> 120}], 25 -> Graphics[{
+            
+            GraphicsComplex[{{-0.8660254037844389, 0.5000000000000008}, {
+             1.8369701987210297`*^-16, 1.}, {3.8285686989269494`*^-16, -1.}, {
+             0.8660254037844386, 0.4999999999999993}, {
+             0.8660254037844389, -0.5000000000000012}, {-0.8660254037844384, \
+-0.49999999999999933`}}, {{
+               Directive[
+                Opacity[0.7], 
+                Hue[0.6, 0.7, 0.5]], 
+               Thickness[0.004], 
+               
+               Line[{{1, 2}, {1, 4}, {1, 5}, {1, 6}, {2, 4}, {2, 5}, {2, 6}, {
+                3, 4}, {3, 5}, {3, 6}, {4, 5}, {4, 6}}]}, {
+               Directive[
+                Hue[0.6, 0.2, 0.8], 
+                EdgeForm[
+                 Directive[
+                  GrayLevel[0], 
+                  Opacity[0.7]]]], 
+               Disk[1, 0.19999999999999987`], 
+               Disk[2, 0.19999999999999987`], 
+               Disk[3, 0.19999999999999987`], 
+               Disk[4, 0.19999999999999987`], 
+               Disk[5, 0.19999999999999987`], 
+               Disk[6, 0.19999999999999987`]}}], {
+             Directive[
+              GrayLevel[0], 
+              Thickness[0.02]], 
+             Circle[{0, 0}, 1.6]}}, {
+           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
+            None, ImagePadding -> 0, ImageSize -> 120}], 8 -> Graphics[{
+            
+            GraphicsComplex[{{-0.8660254037844389, 0.5000000000000008}, {
+             1.8369701987210297`*^-16, 
+             1.}, {-0.8660254037844384, -0.49999999999999933`}, {
+             3.8285686989269494`*^-16, -1.}, {0.8660254037844386, 
+             0.4999999999999993}, {
+             0.8660254037844389, -0.5000000000000012}}, {{
+               Directive[
+                Opacity[0.7], 
+                Hue[0.6, 0.7, 0.5]], 
+               Thickness[0.004], 
+               
+               Line[{{1, 2}, {1, 3}, {2, 3}, {3, 4}, {4, 5}, {4, 6}, {5, 
+                6}}]}, {
+               Directive[
+                Hue[0.6, 0.2, 0.8], 
+                EdgeForm[
+                 Directive[
+                  GrayLevel[0], 
+                  Opacity[0.7]]]], 
+               Disk[1, 0.19999999999999987`], 
+               Disk[2, 0.19999999999999987`], 
+               Disk[3, 0.19999999999999987`], 
+               Disk[4, 0.19999999999999987`], 
+               Disk[5, 0.19999999999999987`], 
+               Disk[6, 0.19999999999999987`]}}], {
+             Directive[
+              GrayLevel[0], 
+              Thickness[0.02]], 
+             Circle[{0, 0}, 1.6]}}, {
+           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
+            None, ImagePadding -> 0, ImageSize -> 120}], 1 -> Graphics[{
             
             GraphicsComplex[{{-0.8660254037844389, 
              0.5000000000000008}, {-0.8660254037844384, \
@@ -3326,29 +3557,8 @@ Cell[BoxData[
                Directive[
                 Opacity[0.7], 
                 Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{5, 6}, 0.19999999999999987`]}}, {
+               Thickness[0.004], 
+               Line[{{1, 2}, {2, 3}, {3, 4}, {4, 5}, {5, 6}}]}, {
                Directive[
                 Hue[0.6, 0.2, 0.8], 
                 EdgeForm[
@@ -3366,30 +3576,19 @@ Cell[BoxData[
               Thickness[0.02]], 
              Circle[{0, 0}, 1.6]}}, {
            ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 3 -> Graphics[{
-            
-            GraphicsComplex[{{-0.8660254037844389, 
-             
-             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
+            None, ImagePadding -> 0, ImageSize -> 120}], 21 -> Graphics[{
+            GraphicsComplex[{{-0.8660254037844389, 0.5000000000000008}, {
+             1.8369701987210297`*^-16, 1.}, {0.8660254037844386, 
+             0.4999999999999993}, {3.8285686989269494`*^-16, -1.}, {
+             0.8660254037844389, -0.5000000000000012}, {-0.8660254037844384, \
+-0.49999999999999933`}}, {{
                Directive[
                 Opacity[0.7], 
                 Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 2}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{5, 6}, 0.19999999999999987`]}}, {
+               Thickness[0.004], 
+               
+               Line[{{1, 2}, {1, 3}, {1, 5}, {1, 6}, {2, 3}, {2, 5}, {2, 6}, {
+                4, 5}, {4, 6}, {5, 6}}]}, {
                Directive[
                 Hue[0.6, 0.2, 0.8], 
                 EdgeForm[
@@ -3407,33 +3606,21 @@ Cell[BoxData[
               Thickness[0.02]], 
              Circle[{0, 0}, 1.6]}}, {
            ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 13 -> Graphics[{
+            None, ImagePadding -> 0, ImageSize -> 120}], 10 -> Graphics[{
             
-            GraphicsComplex[{{-0.8660254037844389, 
-             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
+            GraphicsComplex[{{-0.8660254037844389, 0.5000000000000008}, {
+             0.8660254037844386, 0.4999999999999993}, {
+             1.8369701987210297`*^-16, 
+             1.}, {-0.8660254037844384, -0.49999999999999933`}, {
+             3.8285686989269494`*^-16, -1.}, {
+             0.8660254037844389, -0.5000000000000012}}, {{
                Directive[
                 Opacity[0.7], 
                 Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 2}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{5, 6}, 0.19999999999999987`]}}, {
+               Thickness[0.004], 
+               
+               Line[{{1, 3}, {1, 4}, {2, 3}, {2, 4}, {3, 4}, {4, 5}, {5, 
+                6}}]}, {
                Directive[
                 Hue[0.6, 0.2, 0.8], 
                 EdgeForm[
@@ -3451,33 +3638,20 @@ Cell[BoxData[
               Thickness[0.02]], 
              Circle[{0, 0}, 1.6]}}, {
            ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 15 -> Graphics[{
+            None, ImagePadding -> 0, ImageSize -> 120}], 18 -> Graphics[{
             
-            GraphicsComplex[{{-0.8660254037844389, 
-             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
+            GraphicsComplex[{{-0.8660254037844389, 0.5000000000000008}, {
+             1.8369701987210297`*^-16, 1.}, {
              0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
+             0.4999999999999993}, {-0.8660254037844384, \
+-0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}}, {{
                Directive[
                 Opacity[0.7], 
                 Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{5, 6}, 0.19999999999999987`]}}, {
+               Thickness[0.004], 
+               
+               Line[{{1, 2}, {1, 4}, {1, 5}, {2, 4}, {2, 5}, {3, 4}, {3, 5}, {
+                4, 5}, {5, 6}}]}, {
                Directive[
                 Hue[0.6, 0.2, 0.8], 
                 EdgeForm[
@@ -3495,41 +3669,51 @@ Cell[BoxData[
               Thickness[0.02]], 
              Circle[{0, 0}, 1.6]}}, {
            ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 25 -> Graphics[{
+            None, ImagePadding -> 0, ImageSize -> 120}], 11 -> Graphics[{
+            GraphicsComplex[{{-0.8660254037844389, 0.5000000000000008}, {
+             0.8660254037844386, 0.4999999999999993}, {
+             1.8369701987210297`*^-16, 
+             1.}, {-0.8660254037844384, -0.49999999999999933`}, {
+             0.8660254037844389, -0.5000000000000012}, {
+             3.8285686989269494`*^-16, -1.}}, {{
+               Directive[
+                Opacity[0.7], 
+                Hue[0.6, 0.7, 0.5]], 
+               Thickness[0.004], 
+               
+               Line[{{1, 3}, {1, 4}, {2, 3}, {2, 4}, {4, 5}, {4, 6}, {5, 
+                6}}]}, {
+               Directive[
+                Hue[0.6, 0.2, 0.8], 
+                EdgeForm[
+                 Directive[
+                  GrayLevel[0], 
+                  Opacity[0.7]]]], 
+               Disk[1, 0.19999999999999987`], 
+               Disk[2, 0.19999999999999987`], 
+               Disk[3, 0.19999999999999987`], 
+               Disk[4, 0.19999999999999987`], 
+               Disk[5, 0.19999999999999987`], 
+               Disk[6, 0.19999999999999987`]}}], {
+             Directive[
+              GrayLevel[0], 
+              Thickness[0.02]], 
+             Circle[{0, 0}, 1.6]}}, {
+           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
+            None, ImagePadding -> 0, ImageSize -> 120}], 19 -> Graphics[{
             
             GraphicsComplex[{{-0.8660254037844389, 
              0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
+-0.49999999999999933`}, {1.8369701987210297`*^-16, 1.}, {
              0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
+             0.4999999999999993}, {3.8285686989269494`*^-16, -1.}}, {{
                Directive[
                 Opacity[0.7], 
                 Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 2}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 6}, 0.19999999999999987`]}}, {
+               Thickness[0.004], 
+               
+               Line[{{1, 2}, {2, 3}, {2, 5}, {2, 6}, {3, 5}, {3, 6}, {4, 5}, {
+                4, 6}, {5, 6}}]}, {
                Directive[
                 Hue[0.6, 0.2, 0.8], 
                 EdgeForm[
@@ -3547,31 +3731,143 @@ Cell[BoxData[
               Thickness[0.02]], 
              Circle[{0, 0}, 1.6]}}, {
            ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 8 -> Graphics[{
+            None, ImagePadding -> 0, ImageSize -> 120}], 6 -> Graphics[{
+            
+            GraphicsComplex[{{-0.8660254037844389, 0.5000000000000008}, {
+             1.8369701987210297`*^-16, 1.}, {0.8660254037844386, 
+             0.4999999999999993}, {-0.8660254037844384, \
+-0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
+             0.8660254037844389, -0.5000000000000012}}, {{
+               Directive[
+                Opacity[0.7], 
+                Hue[0.6, 0.7, 0.5]], 
+               Thickness[0.004], 
+               
+               Line[{{1, 2}, {1, 3}, {1, 4}, {2, 3}, {2, 4}, {4, 5}, {5, 
+                6}}]}, {
+               Directive[
+                Hue[0.6, 0.2, 0.8], 
+                EdgeForm[
+                 Directive[
+                  GrayLevel[0], 
+                  Opacity[0.7]]]], 
+               Disk[1, 0.19999999999999987`], 
+               Disk[2, 0.19999999999999987`], 
+               Disk[3, 0.19999999999999987`], 
+               Disk[4, 0.19999999999999987`], 
+               Disk[5, 0.19999999999999987`], 
+               Disk[6, 0.19999999999999987`]}}], {
+             Directive[
+              GrayLevel[0], 
+              Thickness[0.02]], 
+             Circle[{0, 0}, 1.6]}}, {
+           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
+            None, ImagePadding -> 0, ImageSize -> 120}], 17 -> Graphics[{
+            
+            GraphicsComplex[{{-0.8660254037844389, 0.5000000000000008}, {
+             1.8369701987210297`*^-16, 1.}, {0.8660254037844386, 
+             0.4999999999999993}, {3.8285686989269494`*^-16, -1.}, {
+             0.8660254037844389, -0.5000000000000012}, {-0.8660254037844384, \
+-0.49999999999999933`}}, {{
+               Directive[
+                Opacity[0.7], 
+                Hue[0.6, 0.7, 0.5]], 
+               Thickness[0.004], 
+               
+               Line[{{1, 2}, {1, 3}, {1, 5}, {1, 6}, {2, 3}, {2, 5}, {2, 6}, {
+                4, 5}, {4, 6}}]}, {
+               Directive[
+                Hue[0.6, 0.2, 0.8], 
+                EdgeForm[
+                 Directive[
+                  GrayLevel[0], 
+                  Opacity[0.7]]]], 
+               Disk[1, 0.19999999999999987`], 
+               Disk[2, 0.19999999999999987`], 
+               Disk[3, 0.19999999999999987`], 
+               Disk[4, 0.19999999999999987`], 
+               Disk[5, 0.19999999999999987`], 
+               Disk[6, 0.19999999999999987`]}}], {
+             Directive[
+              GrayLevel[0], 
+              Thickness[0.02]], 
+             Circle[{0, 0}, 1.6]}}, {
+           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
+            None, ImagePadding -> 0, ImageSize -> 120}], 14 -> Graphics[{
+            
+            GraphicsComplex[{{-0.8660254037844389, 0.5000000000000008}, {
+             0.8660254037844389, -0.5000000000000012}, {
+             1.8369701987210297`*^-16, 1.}, {0.8660254037844386, 
+             0.4999999999999993}, {-0.8660254037844384, \
+-0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}}, {{
+               Directive[
+                Opacity[0.7], 
+                Hue[0.6, 0.7, 0.5]], 
+               Thickness[0.004], 
+               
+               Line[{{1, 3}, {1, 4}, {1, 5}, {2, 3}, {2, 4}, {2, 5}, {4, 5}, {
+                5, 6}}]}, {
+               Directive[
+                Hue[0.6, 0.2, 0.8], 
+                EdgeForm[
+                 Directive[
+                  GrayLevel[0], 
+                  Opacity[0.7]]]], 
+               Disk[1, 0.19999999999999987`], 
+               Disk[2, 0.19999999999999987`], 
+               Disk[3, 0.19999999999999987`], 
+               Disk[4, 0.19999999999999987`], 
+               Disk[5, 0.19999999999999987`], 
+               Disk[6, 0.19999999999999987`]}}], {
+             Directive[
+              GrayLevel[0], 
+              Thickness[0.02]], 
+             Circle[{0, 0}, 1.6]}}, {
+           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
+            None, ImagePadding -> 0, ImageSize -> 120}], 7 -> Graphics[{
+            
+            GraphicsComplex[{{-0.8660254037844389, 0.5000000000000008}, {
+             1.8369701987210297`*^-16, 
+             1.}, {-0.8660254037844384, -0.49999999999999933`}, {
+             0.8660254037844386, 0.4999999999999993}, {
+             3.8285686989269494`*^-16, -1.}, {
+             0.8660254037844389, -0.5000000000000012}}, {{
+               Directive[
+                Opacity[0.7], 
+                Hue[0.6, 0.7, 0.5]], 
+               Thickness[0.004], 
+               
+               Line[{{1, 2}, {1, 3}, {2, 3}, {3, 4}, {3, 5}, {4, 5}, {5, 
+                6}}]}, {
+               Directive[
+                Hue[0.6, 0.2, 0.8], 
+                EdgeForm[
+                 Directive[
+                  GrayLevel[0], 
+                  Opacity[0.7]]]], 
+               Disk[1, 0.19999999999999987`], 
+               Disk[2, 0.19999999999999987`], 
+               Disk[3, 0.19999999999999987`], 
+               Disk[4, 0.19999999999999987`], 
+               Disk[5, 0.19999999999999987`], 
+               Disk[6, 0.19999999999999987`]}}], {
+             Directive[
+              GrayLevel[0], 
+              Thickness[0.02]], 
+             Circle[{0, 0}, 1.6]}}, {
+           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
+            None, ImagePadding -> 0, ImageSize -> 120}], 4 -> Graphics[{
             
             GraphicsComplex[{{-0.8660254037844389, 
              0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
+-0.49999999999999933`}, {0.8660254037844386, 0.4999999999999993}, {
+             1.8369701987210297`*^-16, 1.}, {3.8285686989269494`*^-16, -1.}, {
+             0.8660254037844389, -0.5000000000000012}}, {{
                Directive[
                 Opacity[0.7], 
                 Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 2}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{5, 6}, 0.19999999999999987`]}}, {
+               Thickness[0.004], 
+               Line[{{1, 2}, {2, 4}, {2, 5}, {3, 4}, {3, 5}, {5, 6}}]}, {
                Directive[
                 Hue[0.6, 0.2, 0.8], 
                 EdgeForm[
@@ -3589,26 +3885,19 @@ Cell[BoxData[
               Thickness[0.02]], 
              Circle[{0, 0}, 1.6]}}, {
            ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 1 -> Graphics[{
-            GraphicsComplex[{{-0.8660254037844389, 
-             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
+            None, ImagePadding -> 0, ImageSize -> 120}], 2 -> Graphics[{
+            
+            GraphicsComplex[{{-0.8660254037844389, 0.5000000000000008}, {
+             1.8369701987210297`*^-16, 
+             1.}, {-0.8660254037844384, -0.49999999999999933`}, {
+             3.8285686989269494`*^-16, -1.}, {
              0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
+             0.4999999999999993}}, {{
                Directive[
                 Opacity[0.7], 
                 Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 2}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{5, 6}, 0.19999999999999987`]}}, {
+               Thickness[0.004], 
+               Line[{{1, 2}, {1, 3}, {2, 3}, {3, 4}, {4, 5}, {5, 6}}]}, {
                Directive[
                 Hue[0.6, 0.2, 0.8], 
                 EdgeForm[
@@ -3626,37 +3915,52 @@ Cell[BoxData[
               Thickness[0.02]], 
              Circle[{0, 0}, 1.6]}}, {
            ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 21 -> Graphics[{
+            None, ImagePadding -> 0, ImageSize -> 120}], 22 -> Graphics[{
+            
+            GraphicsComplex[{{-0.8660254037844389, 0.5000000000000008}, {
+             0.8660254037844389, -0.5000000000000012}, {
+             1.8369701987210297`*^-16, 1.}, {3.8285686989269494`*^-16, -1.}, {
+             0.8660254037844386, 
+             0.4999999999999993}, {-0.8660254037844384, \
+-0.49999999999999933`}}, {{
+               Directive[
+                Opacity[0.7], 
+                Hue[0.6, 0.7, 0.5]], 
+               Thickness[0.004], 
+               
+               Line[{{1, 3}, {1, 5}, {1, 6}, {2, 3}, {2, 5}, {2, 6}, {3, 5}, {
+                3, 6}, {4, 5}, {4, 6}}]}, {
+               Directive[
+                Hue[0.6, 0.2, 0.8], 
+                EdgeForm[
+                 Directive[
+                  GrayLevel[0], 
+                  Opacity[0.7]]]], 
+               Disk[1, 0.19999999999999987`], 
+               Disk[2, 0.19999999999999987`], 
+               Disk[3, 0.19999999999999987`], 
+               Disk[4, 0.19999999999999987`], 
+               Disk[5, 0.19999999999999987`], 
+               Disk[6, 0.19999999999999987`]}}], {
+             Directive[
+              GrayLevel[0], 
+              Thickness[0.02]], 
+             Circle[{0, 0}, 1.6]}}, {
+           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
+            None, ImagePadding -> 0, ImageSize -> 120}], 9 -> Graphics[{
             
             GraphicsComplex[{{-0.8660254037844389, 
              0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
+-0.49999999999999933`}, {0.8660254037844386, 0.4999999999999993}, {
+             1.8369701987210297`*^-16, 1.}, {3.8285686989269494`*^-16, -1.}, {
+             0.8660254037844389, -0.5000000000000012}}, {{
                Directive[
                 Opacity[0.7], 
                 Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 2}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{5, 6}, 0.19999999999999987`]}}, {
+               Thickness[0.004], 
+               
+               Line[{{1, 2}, {2, 4}, {2, 5}, {3, 4}, {3, 5}, {4, 5}, {5, 
+                6}}]}, {
                Directive[
                 Hue[0.6, 0.2, 0.8], 
                 EdgeForm[
@@ -3674,31 +3978,20 @@ Cell[BoxData[
               Thickness[0.02]], 
              Circle[{0, 0}, 1.6]}}, {
            ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 10 -> Graphics[{
+            None, ImagePadding -> 0, ImageSize -> 120}], 12 -> Graphics[{
             
-            GraphicsComplex[{{-0.8660254037844389, 
-             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
+            GraphicsComplex[{{-0.8660254037844389, 0.5000000000000008}, {
+             1.8369701987210297`*^-16, 
+             1.}, {-0.8660254037844384, -0.49999999999999933`}, {
              0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
+             0.4999999999999993}, {3.8285686989269494`*^-16, -1.}}, {{
                Directive[
                 Opacity[0.7], 
                 Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{5, 6}, 0.19999999999999987`]}}, {
+               Thickness[0.004], 
+               
+               Line[{{1, 2}, {1, 3}, {2, 3}, {3, 5}, {3, 6}, {4, 5}, {4, 6}, {
+                5, 6}}]}, {
                Directive[
                 Hue[0.6, 0.2, 0.8], 
                 EdgeForm[
@@ -3716,35 +4009,21 @@ Cell[BoxData[
               Thickness[0.02]], 
              Circle[{0, 0}, 1.6]}}, {
            ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 18 -> Graphics[{
+            None, ImagePadding -> 0, ImageSize -> 120}], 16 -> Graphics[{
             
-            GraphicsComplex[{{-0.8660254037844389, 
-             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
+            GraphicsComplex[{{-0.8660254037844389, 0.5000000000000008}, {
+             0.8660254037844389, -0.5000000000000012}, {
+             1.8369701987210297`*^-16, 1.}, {3.8285686989269494`*^-16, -1.}, {
+             0.8660254037844386, 
+             0.4999999999999993}, {-0.8660254037844384, \
+-0.49999999999999933`}}, {{
                Directive[
                 Opacity[0.7], 
                 Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 2}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{5, 6}, 0.19999999999999987`]}}, {
+               Thickness[0.004], 
+               
+               Line[{{1, 3}, {1, 5}, {1, 6}, {2, 3}, {2, 5}, {2, 6}, {4, 5}, {
+                4, 6}}]}, {
                Directive[
                 Hue[0.6, 0.2, 0.8], 
                 EdgeForm[
@@ -3762,31 +4041,20 @@ Cell[BoxData[
               Thickness[0.02]], 
              Circle[{0, 0}, 1.6]}}, {
            ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 11 -> Graphics[{
+            None, ImagePadding -> 0, ImageSize -> 120}], 23 -> Graphics[{
             
-            GraphicsComplex[{{-0.8660254037844389, 
-             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
+            GraphicsComplex[{{-0.8660254037844389, 0.5000000000000008}, {
+             1.8369701987210297`*^-16, 1.}, {3.8285686989269494`*^-16, -1.}, {
+             0.8660254037844386, 0.4999999999999993}, {
+             0.8660254037844389, -0.5000000000000012}, {-0.8660254037844384, \
+-0.49999999999999933`}}, {{
                Directive[
                 Opacity[0.7], 
                 Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{5, 6}, 0.19999999999999987`]}}, {
+               Thickness[0.004], 
+               
+               Line[{{1, 2}, {1, 4}, {1, 5}, {1, 6}, {2, 4}, {2, 5}, {2, 6}, {
+                3, 4}, {3, 5}, {3, 6}, {5, 6}}]}, {
                Directive[
                 Hue[0.6, 0.2, 0.8], 
                 EdgeForm[
@@ -3804,35 +4072,19 @@ Cell[BoxData[
               Thickness[0.02]], 
              Circle[{0, 0}, 1.6]}}, {
            ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 19 -> Graphics[{
+            None, ImagePadding -> 0, ImageSize -> 120}], 5 -> Graphics[{
             
-            GraphicsComplex[{{-0.8660254037844389, 
-             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
+            GraphicsComplex[{{-0.8660254037844389, 0.5000000000000008}, {
+             0.8660254037844386, 0.4999999999999993}, {
+             1.8369701987210297`*^-16, 
+             1.}, {-0.8660254037844384, -0.49999999999999933`}, {
+             3.8285686989269494`*^-16, -1.}, {
+             0.8660254037844389, -0.5000000000000012}}, {{
                Directive[
                 Opacity[0.7], 
                 Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 2}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{5, 6}, 0.19999999999999987`]}}, {
+               Thickness[0.004], 
+               Line[{{1, 3}, {1, 4}, {2, 3}, {2, 4}, {4, 5}, {5, 6}}]}, {
                Directive[
                 Hue[0.6, 0.2, 0.8], 
                 EdgeForm[
@@ -3850,776 +4102,259 @@ Cell[BoxData[
               Thickness[0.02]], 
              Circle[{0, 0}, 1.6]}}, {
            ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 6 -> Graphics[{
-            
-            GraphicsComplex[{{-0.8660254037844389, 
-             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
-               Directive[
-                Opacity[0.7], 
-                Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 2}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{5, 6}, 0.19999999999999987`]}}, {
-               Directive[
-                Hue[0.6, 0.2, 0.8], 
-                EdgeForm[
-                 Directive[
-                  GrayLevel[0], 
-                  Opacity[0.7]]]], 
-               Disk[1, 0.19999999999999987`], 
-               Disk[2, 0.19999999999999987`], 
-               Disk[3, 0.19999999999999987`], 
-               Disk[4, 0.19999999999999987`], 
-               Disk[5, 0.19999999999999987`], 
-               Disk[6, 0.19999999999999987`]}}], {
-             Directive[
-              GrayLevel[0], 
-              Thickness[0.02]], 
-             Circle[{0, 0}, 1.6]}}, {
-           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 17 -> Graphics[{
-            
-            GraphicsComplex[{{-0.8660254037844389, 
-             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
-               Directive[
-                Opacity[0.7], 
-                Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 2}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 6}, 0.19999999999999987`]}}, {
-               Directive[
-                Hue[0.6, 0.2, 0.8], 
-                EdgeForm[
-                 Directive[
-                  GrayLevel[0], 
-                  Opacity[0.7]]]], 
-               Disk[1, 0.19999999999999987`], 
-               Disk[2, 0.19999999999999987`], 
-               Disk[3, 0.19999999999999987`], 
-               Disk[4, 0.19999999999999987`], 
-               Disk[5, 0.19999999999999987`], 
-               Disk[6, 0.19999999999999987`]}}], {
-             Directive[
-              GrayLevel[0], 
-              Thickness[0.02]], 
-             Circle[{0, 0}, 1.6]}}, {
-           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 14 -> Graphics[{
-            
-            GraphicsComplex[{{-0.8660254037844389, 
-             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
-               Directive[
-                Opacity[0.7], 
-                Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{5, 6}, 0.19999999999999987`]}}, {
-               Directive[
-                Hue[0.6, 0.2, 0.8], 
-                EdgeForm[
-                 Directive[
-                  GrayLevel[0], 
-                  Opacity[0.7]]]], 
-               Disk[1, 0.19999999999999987`], 
-               Disk[2, 0.19999999999999987`], 
-               Disk[3, 0.19999999999999987`], 
-               Disk[4, 0.19999999999999987`], 
-               Disk[5, 0.19999999999999987`], 
-               Disk[6, 0.19999999999999987`]}}], {
-             Directive[
-              GrayLevel[0], 
-              Thickness[0.02]], 
-             Circle[{0, 0}, 1.6]}}, {
-           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 7 -> Graphics[{
-            
-            GraphicsComplex[{{-0.8660254037844389, 
-             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
-               Directive[
-                Opacity[0.7], 
-                Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 2}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{5, 6}, 0.19999999999999987`]}}, {
-               Directive[
-                Hue[0.6, 0.2, 0.8], 
-                EdgeForm[
-                 Directive[
-                  GrayLevel[0], 
-                  Opacity[0.7]]]], 
-               Disk[1, 0.19999999999999987`], 
-               Disk[2, 0.19999999999999987`], 
-               Disk[3, 0.19999999999999987`], 
-               Disk[4, 0.19999999999999987`], 
-               Disk[5, 0.19999999999999987`], 
-               Disk[6, 0.19999999999999987`]}}], {
-             Directive[
-              GrayLevel[0], 
-              Thickness[0.02]], 
-             Circle[{0, 0}, 1.6]}}, {
-           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 4 -> Graphics[{
-            
-            GraphicsComplex[{{-0.8660254037844389, 
-             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
-               Directive[
-                Opacity[0.7], 
-                Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 2}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{5, 6}, 0.19999999999999987`]}}, {
-               Directive[
-                Hue[0.6, 0.2, 0.8], 
-                EdgeForm[
-                 Directive[
-                  GrayLevel[0], 
-                  Opacity[0.7]]]], 
-               Disk[1, 0.19999999999999987`], 
-               Disk[2, 0.19999999999999987`], 
-               Disk[3, 0.19999999999999987`], 
-               Disk[4, 0.19999999999999987`], 
-               Disk[5, 0.19999999999999987`], 
-               Disk[6, 0.19999999999999987`]}}], {
-             Directive[
-              GrayLevel[0], 
-              Thickness[0.02]], 
-             Circle[{0, 0}, 1.6]}}, {
-           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 2 -> Graphics[{
-            
-            GraphicsComplex[{{-0.8660254037844389, 
-             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
-               Directive[
-                Opacity[0.7], 
-                Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 2}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{5, 6}, 0.19999999999999987`]}}, {
-               Directive[
-                Hue[0.6, 0.2, 0.8], 
-                EdgeForm[
-                 Directive[
-                  GrayLevel[0], 
-                  Opacity[0.7]]]], 
-               Disk[1, 0.19999999999999987`], 
-               Disk[2, 0.19999999999999987`], 
-               Disk[3, 0.19999999999999987`], 
-               Disk[4, 0.19999999999999987`], 
-               Disk[5, 0.19999999999999987`], 
-               Disk[6, 0.19999999999999987`]}}], {
-             Directive[
-              GrayLevel[0], 
-              Thickness[0.02]], 
-             Circle[{0, 0}, 1.6]}}, {
-           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 22 -> Graphics[{
-            
-            GraphicsComplex[{{-0.8660254037844389, 
-             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
-               Directive[
-                Opacity[0.7], 
-                Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 6}, 0.19999999999999987`]}}, {
-               Directive[
-                Hue[0.6, 0.2, 0.8], 
-                EdgeForm[
-                 Directive[
-                  GrayLevel[0], 
-                  Opacity[0.7]]]], 
-               Disk[1, 0.19999999999999987`], 
-               Disk[2, 0.19999999999999987`], 
-               Disk[3, 0.19999999999999987`], 
-               Disk[4, 0.19999999999999987`], 
-               Disk[5, 0.19999999999999987`], 
-               Disk[6, 0.19999999999999987`]}}], {
-             Directive[
-              GrayLevel[0], 
-              Thickness[0.02]], 
-             Circle[{0, 0}, 1.6]}}, {
-           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 9 -> Graphics[{
-            
-            GraphicsComplex[{{-0.8660254037844389, 
-             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
-               Directive[
-                Opacity[0.7], 
-                Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 2}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{5, 6}, 0.19999999999999987`]}}, {
-               Directive[
-                Hue[0.6, 0.2, 0.8], 
-                EdgeForm[
-                 Directive[
-                  GrayLevel[0], 
-                  Opacity[0.7]]]], 
-               Disk[1, 0.19999999999999987`], 
-               Disk[2, 0.19999999999999987`], 
-               Disk[3, 0.19999999999999987`], 
-               Disk[4, 0.19999999999999987`], 
-               Disk[5, 0.19999999999999987`], 
-               Disk[6, 0.19999999999999987`]}}], {
-             Directive[
-              GrayLevel[0], 
-              Thickness[0.02]], 
-             Circle[{0, 0}, 1.6]}}, {
-           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 12 -> Graphics[{
-            
-            GraphicsComplex[{{-0.8660254037844389, 
-             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
-               Directive[
-                Opacity[0.7], 
-                Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 2}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{5, 6}, 0.19999999999999987`]}}, {
-               Directive[
-                Hue[0.6, 0.2, 0.8], 
-                EdgeForm[
-                 Directive[
-                  GrayLevel[0], 
-                  Opacity[0.7]]]], 
-               Disk[1, 0.19999999999999987`], 
-               Disk[2, 0.19999999999999987`], 
-               Disk[3, 0.19999999999999987`], 
-               Disk[4, 0.19999999999999987`], 
-               Disk[5, 0.19999999999999987`], 
-               Disk[6, 0.19999999999999987`]}}], {
-             Directive[
-              GrayLevel[0], 
-              Thickness[0.02]], 
-             Circle[{0, 0}, 1.6]}}, {
-           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 16 -> Graphics[{
-            
-            GraphicsComplex[{{-0.8660254037844389, 
-             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
-               Directive[
-                Opacity[0.7], 
-                Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 6}, 0.19999999999999987`]}}, {
-               Directive[
-                Hue[0.6, 0.2, 0.8], 
-                EdgeForm[
-                 Directive[
-                  GrayLevel[0], 
-                  Opacity[0.7]]]], 
-               Disk[1, 0.19999999999999987`], 
-               Disk[2, 0.19999999999999987`], 
-               Disk[3, 0.19999999999999987`], 
-               Disk[4, 0.19999999999999987`], 
-               Disk[5, 0.19999999999999987`], 
-               Disk[6, 0.19999999999999987`]}}], {
-             Directive[
-              GrayLevel[0], 
-              Thickness[0.02]], 
-             Circle[{0, 0}, 1.6]}}, {
-           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 23 -> Graphics[{
-            
-            GraphicsComplex[{{-0.8660254037844389, 
-             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
-               Directive[
-                Opacity[0.7], 
-                Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 2}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{3, 6}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{5, 6}, 0.19999999999999987`]}}, {
-               Directive[
-                Hue[0.6, 0.2, 0.8], 
-                EdgeForm[
-                 Directive[
-                  GrayLevel[0], 
-                  Opacity[0.7]]]], 
-               Disk[1, 0.19999999999999987`], 
-               Disk[2, 0.19999999999999987`], 
-               Disk[3, 0.19999999999999987`], 
-               Disk[4, 0.19999999999999987`], 
-               Disk[5, 0.19999999999999987`], 
-               Disk[6, 0.19999999999999987`]}}], {
-             Directive[
-              GrayLevel[0], 
-              Thickness[0.02]], 
-             Circle[{0, 0}, 1.6]}}, {
-           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}], 5 -> Graphics[{
-            
-            GraphicsComplex[{{-0.8660254037844389, 
-             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {{
-               Directive[
-                Opacity[0.7], 
-                Hue[0.6, 0.7, 0.5]], 
-               Thickness[0.004], {
-                Arrowheads[0.], 
-                Arrow[{1, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{1, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 3}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{2, 4}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{4, 5}, 0.19999999999999987`]}, {
-                Arrowheads[0.], 
-                Arrow[{5, 6}, 0.19999999999999987`]}}, {
-               Directive[
-                Hue[0.6, 0.2, 0.8], 
-                EdgeForm[
-                 Directive[
-                  GrayLevel[0], 
-                  Opacity[0.7]]]], 
-               Disk[1, 0.19999999999999987`], 
-               Disk[2, 0.19999999999999987`], 
-               Disk[3, 0.19999999999999987`], 
-               Disk[4, 0.19999999999999987`], 
-               Disk[5, 0.19999999999999987`], 
-               Disk[6, 0.19999999999999987`]}}], {
-             Directive[
-              GrayLevel[0], 
-              Thickness[0.02]], 
-             Circle[{0, 0}, 1.6]}}, {
-           ImageSize -> 100, FormatType -> TraditionalForm, FrameTicks -> 
-            None, ImagePadding -> 0, ImageSize -> 100}]}, 
+            None, ImagePadding -> 0, ImageSize -> 120}]}, 
        VertexSize -> {0.6}}]]}, 
     TagBox[GraphicsGroupBox[{
        {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
         {Arrowheads[0.], 
-         ArrowBox[{{4.3522590492707, 2.5623331139801113`}, {4.234015804731493,
-           1.6727868082860788`}}, 0.11258050533036326`]}, 
+         ArrowBox[{{0., 2.4253729504487858`}, {0.26508516434934415`, 
+          1.5417199229793828`}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{4.3522590492707, 2.5623331139801113`}, {3.227370579797489,
-           2.6142836078192104`}}, 0.11258050533036326`]}, 
+         ArrowBox[{{0., 2.4253729504487858`}, {0.9887178281204376, 
+          2.387880535482709}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[BezierCurveBox[{{4.3522590492707, 2.5623331139801113`}, {
-          4.297787362879872, 2.765458125387575}, {4.414208316381608, 
-          2.9362777570962604`}, {4.549592217728766, 2.9726027364205896`}, {
-          4.791022966159655, 2.6837735014441426`}, {4.73126252548456, 
-          2.556978412433533}, {4.5425028619857395`, 2.47269926657196}, {
-          4.3522590492707, 2.5623331139801113`}},
-          SplineDegree->7], 0.11258050533036326`]}, 
+         ArrowBox[BezierCurveBox[{{0., 
+          2.4253729504487858`}, {-0.18672496124266488`, 
+          2.3286221212873337`}, {-0.37853284630812983`, 
+          2.405746649928977}, {-0.4430240694711164, 
+          2.530211951673374}, {-0.2126135585775065, 
+          2.8279360101270514`}, {-0.07595074864590048, 2.796726947581381}, {
+          0.0468203660987197, 2.6303968207977895`}, {0., 2.4253729504487858`}},
+          SplineDegree->7], 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{4.234015804731493, 1.6727868082860788`}, {
-          3.1345212549006654`, 1.5707119751545648`}}, 0.11258050533036326`]}, 
+         ArrowBox[{{0.26508516434934415`, 1.5417199229793828`}, {
+          1.350358295569337, 1.8789232477875923`}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{4.234015804731493, 1.6727868082860788`}, {
-          4.50266261371792, 0.8348660444877893}}, 0.11258050533036326`]}, 
+         ArrowBox[{{0.26508516434934415`, 1.5417199229793828`}, {
+          0.06886984696997178, 0.5850040594813193}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{4.234015804731493, 1.6727868082860788`}, {
-          3.4763489137307326`, 1.872870945802687}}, 0.11258050533036326`]}, 
+         ArrowBox[{{0.26508516434934415`, 1.5417199229793828`}, {
+          0.967606255894675, 0.9325140777289143}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[BezierCurveBox[{{4.234015804731493, 1.6727868082860788`}, {
-          4.397625879775798, 1.9078086823804294`}, {4.562735388895468, 
-          1.9217844157714703`}, {4.659888955003631, 1.8664239859738856`}, {
-          4.687458043604594, 1.5576632541741429`}, {4.601649373838411, 
-          1.4859662194525818`}, {4.436675717878861, 1.4704689950270262`}, {
-          4.234015804731493, 1.6727868082860788`}},
-          SplineDegree->7], 0.11258050533036326`]}, 
+         ArrowBox[BezierCurveBox[{{0.26508516434934415`, 
+          1.5417199229793828`}, {0.0860304910549198, 
+          1.3140966390037594`}, {-0.07739517524196474, 
+          1.3095459666833582`}, {-0.1702698351539002, 
+          1.3690593709275545`}, {-0.18391434027005268`, 
+          1.6749306082822073`}, {-0.09670765611250359, 1.7424771994377664`}, {
+          0.06647408232815584, 1.7524960448119877`}, {0.26508516434934415`, 
+          1.5417199229793828`}},
+          SplineDegree->7], 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{3.227370579797489, 2.6142836078192104`}, {
-          2.071913872251164, 2.339043878954218}}, 0.11258050533036326`]}, 
+         ArrowBox[{{0.9887178281204376, 2.387880535482709}, {
+          2.019065052986808, 2.526773683280538}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{3.227370579797489, 2.6142836078192104`}, {
-          3.1345212549006654`, 1.5707119751545648`}}, 0.11258050533036326`]}, 
+         ArrowBox[{{0.9887178281204376, 2.387880535482709}, {
+          1.350358295569337, 1.8789232477875923`}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{3.227370579797489, 2.6142836078192104`}, {
-          2.2858110833271237`, 2.9746511785113077`}}, 0.11258050533036326`]}, 
+         ArrowBox[{{0.9887178281204376, 2.387880535482709}, {
+          1.4860848739412202`, 1.3492188398162055`}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[BezierCurveBox[{{3.227370579797489, 2.6142836078192104`}, {
-          3.0477888101449935`, 2.827275559114339}, {3.078608723062663, 
-          2.9953333635310884`}, {3.1609512874661694`, 3.0761198293344836`}, {
-          3.473045882435049, 3.010954584286157}, {3.516181561464792, 
-          2.90396830402466}, {3.4771774584009307`, 2.737619355720756}, {
-          3.227370579797489, 2.6142836078192104`}},
-          SplineDegree->7], 0.11258050533036326`]}, 
+         ArrowBox[BezierCurveBox[{{0.9887178281204376, 2.387880535482709}, {
+          0.7632391936032318, 2.535107833742851}, {0.7442931866529598, 
+          2.71087483654755}, {0.8035896920206274, 2.814535517418899}, {
+          1.1320566473054168`, 2.830329270706821}, {1.201025285436309, 
+          2.7328359926723866`}, {1.1990305849991982`, 2.5560620929460045`}, {
+          0.9887178281204376, 2.387880535482709}},
+          SplineDegree->7], 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{2.5510691964018175`, 3.6244258933489046`}, {
-          2.2858110833271237`, 2.9746511785113077`}}, 0.11258050533036326`]}, 
+         ArrowBox[{{0.8435551299557726, 0.34682094519043205`}, {
+          1.4860848739412202`, 1.3492188398162055`}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{2.5510691964018175`, 3.6244258933489046`}, {
-          2.5377948162194426`, 2.5159680891452285`}}, 0.11258050533036326`]}, 
+         ArrowBox[{{0.8435551299557726, 0.34682094519043205`}, {
+          1.6191426125710224`, 0.08121253866051847}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[BezierCurveBox[{{2.5510691964018175`, 
-          3.6244258933489046`}, {2.3816391323403754`, 3.7490067436818455`}, {
-          2.3658324326950853`, 3.9551215981627093`}, {2.4488541690472108`, 
-          4.0680627162728475`}, {2.8178122824011385`, 3.993356331972111}, {
-          2.8503594599350834`, 3.857014899892703}, {2.755617051248295, 
-          3.6732839526149794`}, {2.5510691964018175`, 3.6244258933489046`}},
-          SplineDegree->7], 0.11258050533036326`]}, 
+         ArrowBox[BezierCurveBox[{{0.8435551299557726, 
+          0.34682094519043205`}, {0.8228056732383672, 0.13754506286407445`}, {
+          0.6535737691262565, 0.018827972173923513`}, {0.514083462026576, 
+          0.03263952864402653}, {0.39017114997579894`, 0.3881066469365766}, {
+          0.49084834847991615`, 0.48563821397131995`}, {0.6972074903807763, 
+          0.49784843695391834`}, {0.8435551299557726, 0.34682094519043205`}},
+          SplineDegree->7], 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{2.543246560537428, 2.140739340483678}, {2.071913872251164,
-           2.339043878954218}}, 0.11258050533036326`]}, 
+         ArrowBox[{{1.7825724903322435`, 1.7567386745074156`}, {
+          2.019065052986808, 2.526773683280538}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{2.543246560537428, 2.140739340483678}, {
-          3.4763489137307326`, 1.872870945802687}}, 0.11258050533036326`]}, 
+         ArrowBox[{{1.7825724903322435`, 1.7567386745074156`}, {
+          0.967606255894675, 0.9325140777289143}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{2.543246560537428, 2.140739340483678}, {2.645870114514797,
-           1.2165079174484688`}}, 0.11258050533036326`]}, 
+         ArrowBox[{{1.7825724903322435`, 1.7567386745074156`}, {
+          1.9697563865053174`, 0.8963729091123096}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{2.543246560537428, 2.140739340483678}, {
-          1.4144413363726724`, 2.543860507898475}}, 0.11258050533036326`]}, 
+         ArrowBox[{{1.7825724903322435`, 1.7567386745074156`}, {
+          2.66033728579397, 1.921688212342152}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[BezierCurveBox[{{2.543246560537428, 2.140739340483678}, {
-          2.389009089585507, 2.3573709038143287`}, {2.436196582828027, 
-          2.5298848205847726`}, {2.5307659469862487`, 2.6051146657032875`}, {
-          2.8441710183616213`, 2.494638590370771}, {2.870660438499055, 
-          2.376735219534189}, {2.799236345243406, 2.2127647651815807`}, {
-          2.543246560537428, 2.140739340483678}},
-          SplineDegree->7], 0.11258050533036326`]}, 
+         ArrowBox[BezierCurveBox[{{1.7825724903322435`, 
+          1.7567386745074156`}, {1.5087571212225088`, 1.6647580685783205`}, {
+          1.369175579174044, 1.7508704700610942`}, {1.3241313447321845`, 
+          1.8519491005650301`}, {1.481707778842703, 2.1155056386909683`}, {
+          1.5920672047566213`, 2.123670791044405}, {1.7339907750262218`, 
+          2.041475579677273}, {1.7825724903322435`, 1.7567386745074156`}},
+          SplineDegree->7], 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{2.071913872251164, 2.339043878954218}, {2.233785314438957,
-           1.416696246415658}}, 0.11258050533036326`]}, 
+         ArrowBox[{{2.019065052986808, 2.526773683280538}, {
+          2.2289932089274367`, 1.7023146787797838`}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{2.071913872251164, 2.339043878954218}, {
-          1.0793212841646038`, 2.04948362360938}}, 0.11258050533036326`]}, 
+         ArrowBox[{{2.019065052986808, 2.526773683280538}, {3.051283701600039,
+           2.3660851839562707`}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[BezierCurveBox[{{2.071913872251164, 2.339043878954218}, {
-          1.8291024845629689`, 2.4177628033635794`}, {1.7620430103004567`, 
-          2.5903380451564453`}, {1.7962179832523422`, 2.7107615923039656`}, {
-          2.1275281688053505`, 2.7984884693539733`}, {2.2168199330378755`, 
-          2.710757401173446}, {2.243951522929872, 2.5276097449008006`}, {
-          2.071913872251164, 2.339043878954218}},
-          SplineDegree->7], 0.11258050533036326`]}, 
+         ArrowBox[BezierCurveBox[{{2.019065052986808, 2.526773683280538}, {
+          1.8118335382083097`, 2.647937313894257}, {1.781425744237799, 
+          2.8388929782120647`}, {1.8454117164757817`, 2.953042046691384}, {
+          2.2013939428736022`, 2.9494039884398133`}, {2.2630336387006964`, 
+          2.833971053900837}, {2.2287295556426323`, 2.6436767304049598`}, {
+          2.019065052986808, 2.526773683280538}},
+          SplineDegree->7], 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{3.1345212549006654`, 1.5707119751545648`}, {
-          2.233785314438957, 1.416696246415658}}, 0.11258050533036326`]}, 
+         ArrowBox[{{1.350358295569337, 1.8789232477875923`}, {
+          2.2289932089274367`, 1.7023146787797838`}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{3.1345212549006654`, 1.5707119751545648`}, {
-          1.9655992718657154`, 1.086734059230567}}, 0.11258050533036326`]}, 
+         ArrowBox[{{1.350358295569337, 1.8789232477875923`}, {
+          2.5527547724336714`, 1.2829583719892834`}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[BezierCurveBox[{{3.1345212549006654`, 
-          1.5707119751545648`}, {3.3881437489813324`, 1.4584176834431462`}, {
-          3.4341974045073185`, 1.2930543842868958`}, {3.3951407705403174`, 
-          1.1839325093528155`}, {3.0843339409754655`, 1.1070287636630263`}, {
-          2.998898454256242, 1.1853472279930344`}, {2.9625268033054173`, 
-          1.3531061708314331`}, {3.1345212549006654`, 1.5707119751545648`}},
-          SplineDegree->7], 0.11258050533036326`]}, 
+         ArrowBox[BezierCurveBox[{{1.350358295569337, 1.8789232477875923`}, {
+          1.2862309633020603`, 2.1783357039199718`}, {1.3785500392024426`, 
+          2.298745786134943}, {1.4748784251047697`, 2.3331132104683876`}, {
+          1.7144752968161492`, 2.1776080218597436`}, {1.722313774542166, 
+          2.07563333846822}, {1.6499343657265593`, 1.942281844837215}, {
+          1.350358295569337, 1.8789232477875923`}},
+          SplineDegree->7], 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{4.50266261371792, 0.8348660444877893}, {
-          3.4803289683874503`, 0.8417050136109465}}, 0.11258050533036326`]}, 
+         ArrowBox[{{0.06886984696997178, 0.5850040594813193}, {
+          1.194297345268978, 0.24658643726007778`}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{2.2858110833271237`, 2.9746511785113077`}, {
-          2.2547391304748565`, 1.809759664400163}}, 0.11258050533036326`]}, 
+         ArrowBox[{{1.4860848739412202`, 1.3492188398162055`}, {
+          2.0134663523843814`, 0.49763416781333913`}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{2.2858110833271237`, 2.9746511785113077`}, {
-          1.4144413363726724`, 2.543860507898475}}, 0.11258050533036326`]}, 
+         ArrowBox[{{1.4860848739412202`, 1.3492188398162055`}, {
+          2.66033728579397, 1.921688212342152}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[BezierCurveBox[{{2.2858110833271237`, 
-          2.9746511785113077`}, {1.9818840535288071`, 2.9607199599270686`}, {
-          1.8774904277369773`, 3.0727798803086306`}, {1.859695271557878, 
-          3.1744810767051805`}, {2.0560247979414545`, 3.3853882431896647`}, {
-          2.1587380680006194`, 3.3749104053553927`}, {2.2779754554531464`, 
-          3.278796409000114}, {2.2858110833271237`, 2.9746511785113077`}},
-          SplineDegree->7], 0.11258050533036326`]}, 
+         ArrowBox[BezierCurveBox[{{1.4860848739412202`, 
+          1.3492188398162055`}, {1.2285165545724466`, 1.1540899723935347`}, {
+          1.0922907047305097`, 1.1819942267893664`}, {1.0239115586599885`, 
+          1.245980535083268}, {1.0401379296327007`, 1.5085726718506753`}, {
+          1.11587460568969, 1.5636536228796345`}, {1.2544995486141133`, 
+          1.5745740064693066`}, {1.4860848739412202`, 1.3492188398162055`}},
+          SplineDegree->7], 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{3.4763489137307326`, 1.872870945802687}, {
-          3.4803289683874503`, 0.8417050136109465}}, 0.11258050533036326`]}, 
+         ArrowBox[{{0.967606255894675, 0.9325140777289143}, {
+          1.194297345268978, 0.24658643726007778`}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{3.4763489137307326`, 1.872870945802687}, {
-          2.5377948162194426`, 2.5159680891452285`}}, 0.11258050533036326`]}, 
+         ArrowBox[{{0.967606255894675, 0.9325140777289143}, {
+          1.6191426125710224`, 0.08121253866051847}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[BezierCurveBox[{{3.4763489137307326`, 1.872870945802687}, {
-          3.349316695308466, 2.122459067485213}, {3.4171135434588162`, 
-          2.2782507498583033`}, {3.5149646762454605`, 2.3380930097118586`}, {
-          3.8033563584595718`, 2.206020877446712}, {3.8219705794449657`, 
-          2.0928420321216388`}, {3.748305205654421, 1.9397379053971813`}, {
-          3.4763489137307326`, 1.872870945802687}},
-          SplineDegree->7], 0.11258050533036326`]}, 
+         ArrowBox[BezierCurveBox[{{0.967606255894675, 0.9325140777289143}, {
+          0.9281915012864345, 0.6428207456629902}, {0.7913516555665692, 
+          0.5568801198196562}, {0.6824037449532048, 0.5604743551839713}, {
+          0.5144437187600943, 0.8125234850293722}, {0.5530697389940498, 
+          0.9144577595191521}, {0.6850675109792254, 1.0076646409063654`}, {
+          0.967606255894675, 0.9325140777289143}},
+          SplineDegree->7], 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{2.645870114514797, 1.2165079174484688`}, {
-          2.233785314438957, 1.416696246415658}}, 0.11258050533036326`]}, 
+         ArrowBox[{{1.9697563865053174`, 0.8963729091123096}, {
+          2.2289932089274367`, 1.7023146787797838`}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{2.645870114514797, 1.2165079174484688`}, {
-          3.4803289683874503`, 0.8417050136109465}}, 0.11258050533036326`]}, 
+         ArrowBox[{{1.9697563865053174`, 0.8963729091123096}, {
+          1.194297345268978, 0.24658643726007778`}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{2.645870114514797, 1.2165079174484688`}, {
-          1.565783787330909, 1.5606347380830006`}}, 0.11258050533036326`]}, 
+         ArrowBox[{{1.9697563865053174`, 0.8963729091123096}, {
+          2.7849721411829824`, 0.33474705239409774`}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{2.233785314438957, 1.416696246415658}, {
-          1.3539250668213485`, 1.0082713159403125`}}, 0.11258050533036326`]}, 
+         ArrowBox[{{2.2289932089274367`, 1.7023146787797838`}, {
+          3.0477952005140816`, 0.8953995442012171}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{2.2547391304748565`, 1.809759664400163}, {
-          2.5377948162194426`, 2.5159680891452285`}}, 0.11258050533036326`]}, 
+         ArrowBox[{{2.0134663523843814`, 0.49763416781333913`}, {
+          1.6191426125710224`, 0.08121253866051847}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{2.2547391304748565`, 1.809759664400163}, {
-          1.9655992718657154`, 1.086734059230567}}, 0.11258050533036326`]}, 
+         ArrowBox[{{2.0134663523843814`, 0.49763416781333913`}, {
+          2.5527547724336714`, 1.2829583719892834`}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{2.2547391304748565`, 1.809759664400163}, {
-          2.3652459533438694`, 0.6120540210667}}, 0.11258050533036326`]}, 
+         ArrowBox[{{2.0134663523843814`, 0.49763416781333913`}, {
+          2.3796735029997906`, 0.}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[BezierCurveBox[{{2.2547391304748565`, 1.809759664400163}, {
-          2.038871551987256, 1.630233613463153}, {1.872393236273942, 
-          1.6617675718170513`}, {1.7925103248510428`, 1.7436304744330948`}, {
-          1.8564681696360008`, 2.0534988288087836`}, {1.9622354946348908`, 
-          2.0970429136504904`}, {2.127594209816621, 2.0600846203233583`}, {
-          2.2547391304748565`, 1.809759664400163}},
-          SplineDegree->7], 0.11258050533036326`]}, 
+         ArrowBox[BezierCurveBox[{{2.0134663523843814`, 
+          0.49763416781333913`}, {2.2802468308360595`, 0.7046304858120775}, {
+          2.4060379931814575`, 0.6822737783498595}, {2.4714599891091558`, 
+          0.6264824873091106}, {2.4754236535024394`, 0.38381188238122943`}, {
+          2.4118586051994577`, 0.32591377929143145`}, {2.2868646755584785`, 
+          0.2994608693255429}, {2.0134663523843814`, 0.49763416781333913`}},
+          SplineDegree->7], 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{1.0793212841646038`, 2.04948362360938}, {
-          1.4144413363726724`, 2.543860507898475}}, 0.11258050533036326`]}, 
+         ArrowBox[{{3.051283701600039, 2.3660851839562707`}, {
+          2.66033728579397, 1.921688212342152}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{1.0793212841646038`, 2.04948362360938}, {
-          1.9655992718657154`, 1.086734059230567}}, 0.11258050533036326`]}, 
+         ArrowBox[{{3.051283701600039, 2.3660851839562707`}, {
+          2.5527547724336714`, 1.2829583719892834`}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{1.0793212841646038`, 2.04948362360938}, {0., 
-          2.216158062943545}}, 0.11258050533036326`]}, 
+         ArrowBox[{{3.051283701600039, 2.3660851839562707`}, {
+          4.025640401821496, 2.4243786507843295`}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[BezierCurveBox[{{1.0793212841646038`, 2.04948362360938}, {
-          1.173952252931929, 1.7637244785410662`}, {1.0927906092973696`, 
-          1.6311111551296296`}, {0.9979519845643956, 1.5864377429399128`}, {
-          0.740104586186982, 1.7239617620769327`}, {0.7243730232875127, 
-          1.8276082594931709`}, {0.7892917293494371, 1.968884823533124}, {
-          1.0793212841646038`, 2.04948362360938}},
-          SplineDegree->7], 0.11258050533036326`]}, 
+         ArrowBox[BezierCurveBox[{{3.051283701600039, 2.3660851839562707`}, {
+          2.8406001028991152`, 2.538054926274283}, {2.840250815470421, 
+          2.7131703158849367`}, {2.9090817144997083`, 2.809353975558892}, {
+          3.234753505742332, 2.7939256422022383`}, {3.2941833667171174`, 
+          2.691665773857062}, {3.277281009193069, 2.517367661445228}, {
+          3.051283701600039, 2.3660851839562707`}},
+          SplineDegree->7], 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{3.4803289683874503`, 0.8417050136109465}, {
-          2.3652459533438694`, 0.6120540210667}}, 0.11258050533036326`]}, 
+         ArrowBox[{{1.194297345268978, 0.24658643726007778`}, {
+          2.3796735029997906`, 0.}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{0.38682517332463995`, 1.241267030193889}, {
-          0.542195059512071, 1.8023462315855299`}}, 0.11258050533036326`]}, 
+         ArrowBox[{{3.9148593856553577`, 0.6273215564527941}, {
+          3.73404952765904, 1.5563519773816932`}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{0.38682517332463995`, 1.241267030193889}, {
-          1.565783787330909, 1.5606347380830006`}}, 0.11258050533036326`]}, 
+         ArrowBox[{{3.9148593856553577`, 0.6273215564527941}, {
+          2.7849721411829824`, 0.33474705239409774`}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{0.542195059512071, 1.8023462315855299`}, {
-          1.4144413363726724`, 2.543860507898475}}, 0.11258050533036326`]}, 
+         ArrowBox[{{3.73404952765904, 1.5563519773816932`}, {2.66033728579397,
+           1.921688212342152}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{0.542195059512071, 1.8023462315855299`}, {0., 
-          2.216158062943545}}, 0.11258050533036326`]}, 
+         ArrowBox[{{3.73404952765904, 1.5563519773816932`}, {
+          4.025640401821496, 2.4243786507843295`}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{0.542195059512071, 1.8023462315855299`}, {
-          1.3539250668213485`, 1.0082713159403125`}}, 0.11258050533036326`]}, 
+         ArrowBox[{{3.73404952765904, 1.5563519773816932`}, {
+          3.0477952005140816`, 0.8953995442012171}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{2.5377948162194426`, 2.5159680891452285`}, {
-          1.565783787330909, 1.5606347380830006`}}, 0.11258050533036326`]}, 
+         ArrowBox[{{1.6191426125710224`, 0.08121253866051847}, {
+          2.7849721411829824`, 0.33474705239409774`}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[BezierCurveBox[{{2.5377948162194426`, 
-          2.5159680891452285`}, {2.251326586130169, 2.402942556620737}, {
-          2.118438537594864, 2.4734667109556883`}, {2.068815036435293, 
-          2.5618933952293275`}, {2.1799497000020547`, 2.8225590876834636`}, {
-          2.2781111037600636`, 2.847977765289133}, {2.4210050662361335`, 
-          2.8009224225949274`}, {2.5377948162194426`, 2.5159680891452285`}},
-          SplineDegree->7], 0.11258050533036326`]}, 
+         ArrowBox[BezierCurveBox[{{1.6191426125710224`, 
+          0.08121253866051847}, {1.8124598112899715`, -0.03103717755158847}, {
+          1.8466352128229062`, -0.22934638599855656`}, {
+          1.7787285523341563`, -0.3475629716053852}, {
+          1.4110818572697492`, -0.32625136462090404`}, {
+          1.3572896052563403`, -0.20098018168325918`}, {
+          1.414150132667163, -0.007948110132018266}, {1.6191426125710224`, 
+          0.08121253866051847}},
+          SplineDegree->7], 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[BezierCurveBox[{{1.4144413363726724`, 2.543860507898475}, {
-          1.171984869348087, 2.530815857233172}, {1.0425869130906005`, 
-          2.6725809180575872`}, {1.0328667294348541`, 2.80209154024673}, {
-          1.3283931507785747`, 2.9964951911512716`}, {1.4434712701742134`, 
-          2.936291290393236}, {1.5224174829626147`, 2.7613379850785518`}, {
-          1.4144413363726724`, 2.543860507898475}},
-          SplineDegree->7], 0.11258050533036326`]}, 
+         ArrowBox[BezierCurveBox[{{2.66033728579397, 1.921688212342152}, {
+          2.3686114174607136`, 1.9932927097000595`}, {2.29929455738862, 
+          2.132972445004525}, {2.3120516035213172`, 2.237339907245201}, {
+          2.5667056519900835`, 2.38230956022185}, {2.6629622651430416`, 
+          2.3400014779571983`}, {2.74768623461036, 2.209092713763655}, {
+          2.66033728579397, 1.921688212342152}},
+          SplineDegree->7], 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{1.9655992718657154`, 1.086734059230567}, {
-          1.9436301511365064`, 0.}}, 0.11258050533036326`]}, 
+         ArrowBox[{{2.5527547724336714`, 1.2829583719892834`}, {
+          3.146477019494383, 0.1584277153310547}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[BezierCurveBox[{{1.9655992718657154`, 1.086734059230567}, {
-          1.839106968339438, 0.807203739302532}, {1.6937720697740504`, 
-          0.7652171902795077}, {1.5961160611006335`, 0.7945591299378512}, {
-          1.4952598149925953`, 1.0609498071999968`}, {1.548997207075201, 
-          1.147609706490826}, {1.6856975994346453`, 1.2124024975145828`}, {
-          1.9655992718657154`, 1.086734059230567}},
-          SplineDegree->7], 0.11258050533036326`]}, 
+         ArrowBox[BezierCurveBox[{{2.5527547724336714`, 
+          1.2829583719892834`}, {2.7808113513634796`, 1.5026522503704756`}, {
+          2.9242028104530706`, 1.4897684096573784`}, {3.00148398407849, 
+          1.4311611315461379`}, {3.00888026896358, 1.1593804826279916`}, {
+          2.934901017387236, 1.0966567775338683`}, {2.7924225228222963`, 
+          1.0759932231960783`}, {2.5527547724336714`, 1.2829583719892834`}},
+          SplineDegree->7], 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{1.3539250668213485`, 1.0082713159403125`}, {
-          1.565783787330909, 1.5606347380830006`}}, 0.11258050533036326`]}, 
+         ArrowBox[{{3.0477952005140816`, 0.8953995442012171}, {
+          2.7849721411829824`, 0.33474705239409774`}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{1.3539250668213485`, 1.0082713159403125`}, {
-          2.3652459533438694`, 0.6120540210667}}, 0.11258050533036326`]}, 
+         ArrowBox[{{3.0477952005140816`, 0.8953995442012171}, {
+          2.3796735029997906`, 0.}}, 0.10943507315507658`]}, 
         {Arrowheads[0.], 
-         ArrowBox[{{1.9436301511365064`, 0.}, {2.3652459533438694`, 
-          0.6120540210667}}, 0.11258050533036326`]}}, 
+         ArrowBox[{{3.146477019494383, 0.1584277153310547}, {
+          2.3796735029997906`, 0.}}, 0.10943507315507658`]}}, 
        {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], InsetBox[
          GraphicsBox[{
            GraphicsComplexBox[{{-0.8660254037844389, 
@@ -4628,11 +4363,7 @@ Cell[BoxData[
             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
             0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
              {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 2}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{5, 6}, 0.19999999999999987`]}}, 
+              LineBox[{{1, 2}, {2, 3}, {3, 4}, {4, 5}, {5, 6}}]}, 
              {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
               DiskBox[1, 0.19999999999999987], 
               DiskBox[2, 0.19999999999999987], 
@@ -4644,21 +4375,39 @@ Cell[BoxData[
           FormatType->TraditionalForm,
           FrameTicks->None,
           ImagePadding->0,
-          ImageSize->100], {4.3522590492707, 2.5623331139801113}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}], InsetBox[
+          ImageSize->100], {0., 2.4253729504487858}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
+         GraphicsBox[{
+           GraphicsComplexBox[{{-0.8660254037844389, 0.5000000000000008}, {
+            1.8369701987210297`*^-16, 
+            1.}, {-0.8660254037844384, -0.49999999999999933`}, {
+            3.8285686989269494`*^-16, -1.}, {
+            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
+            0.4999999999999993}}, {
+             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
+              LineBox[{{1, 2}, {1, 3}, {2, 3}, {3, 4}, {4, 5}, {5, 6}}]}, 
+             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
+              DiskBox[1, 0.19999999999999987], 
+              DiskBox[2, 0.19999999999999987], 
+              DiskBox[3, 0.19999999999999987], 
+              DiskBox[4, 0.19999999999999987], 
+              DiskBox[5, 0.19999999999999987], 
+              DiskBox[6, 0.19999999999999987]}}], 
+           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
+          FormatType->TraditionalForm,
+          FrameTicks->None,
+          ImagePadding->0,
+          ImageSize->100], {0.26508516434934415, 1.5417199229793828}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
          GraphicsBox[{
            GraphicsComplexBox[{{-0.8660254037844389, 
             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
+-0.49999999999999933`}, {1.8369701987210297`*^-16, 1.}, {
+            3.8285686989269494`*^-16, -1.}, {
             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
+            0.4999999999999993}}, {
              {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 2}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{5, 6}, 0.19999999999999987`]}}, 
+              LineBox[{{1, 2}, {2, 3}, {2, 4}, {3, 4}, {4, 5}, {5, 6}}]}, 
              {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
               DiskBox[1, 0.19999999999999987], 
               DiskBox[2, 0.19999999999999987], 
@@ -4670,21 +4419,16 @@ Cell[BoxData[
           FormatType->TraditionalForm,
           FrameTicks->None,
           ImagePadding->0,
-          ImageSize->100], {4.234015804731493, 1.6727868082860788}, Automatic,
-          {0.22516101066072652, 0.22516101066072652}], InsetBox[
+          ImageSize->100], {0.9887178281204376, 2.387880535482709}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
          GraphicsBox[{
            GraphicsComplexBox[{{-0.8660254037844389, 
             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
+-0.49999999999999933`}, {0.8660254037844386, 0.4999999999999993}, {
+            1.8369701987210297`*^-16, 1.}, {3.8285686989269494`*^-16, -1.}, {
+            0.8660254037844389, -0.5000000000000012}}, {
              {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 2}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{5, 6}, 0.19999999999999987`]}}, 
+              LineBox[{{1, 2}, {2, 4}, {2, 5}, {3, 4}, {3, 5}, {5, 6}}]}, 
              {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
               DiskBox[1, 0.19999999999999987], 
               DiskBox[2, 0.19999999999999987], 
@@ -4696,21 +4440,106 @@ Cell[BoxData[
           FormatType->TraditionalForm,
           FrameTicks->None,
           ImagePadding->0,
-          ImageSize->100], {3.227370579797489, 2.6142836078192104}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}], InsetBox[
+          ImageSize->100], {0.8435551299557726, 0.34682094519043205}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
+         GraphicsBox[{
+           GraphicsComplexBox[{{-0.8660254037844389, 0.5000000000000008}, {
+            0.8660254037844386, 0.4999999999999993}, {
+            1.8369701987210297`*^-16, 
+            1.}, {-0.8660254037844384, -0.49999999999999933`}, {
+            3.8285686989269494`*^-16, -1.}, {
+            0.8660254037844389, -0.5000000000000012}}, {
+             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
+              LineBox[{{1, 3}, {1, 4}, {2, 3}, {2, 4}, {4, 5}, {5, 6}}]}, 
+             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
+              DiskBox[1, 0.19999999999999987], 
+              DiskBox[2, 0.19999999999999987], 
+              DiskBox[3, 0.19999999999999987], 
+              DiskBox[4, 0.19999999999999987], 
+              DiskBox[5, 0.19999999999999987], 
+              DiskBox[6, 0.19999999999999987]}}], 
+           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
+          FormatType->TraditionalForm,
+          FrameTicks->None,
+          ImagePadding->0,
+          ImageSize->100], {1.7825724903322435, 1.7567386745074156}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
+         GraphicsBox[{
+           GraphicsComplexBox[{{-0.8660254037844389, 0.5000000000000008}, {
+            1.8369701987210297`*^-16, 1.}, {0.8660254037844386, 
+            0.4999999999999993}, {-0.8660254037844384, \
+-0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
+            0.8660254037844389, -0.5000000000000012}}, {
+             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
+              LineBox[{{1, 2}, {1, 3}, {1, 4}, {2, 3}, {2, 4}, {4, 5}, {5, 
+               6}}]}, 
+             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
+              DiskBox[1, 0.19999999999999987], 
+              DiskBox[2, 0.19999999999999987], 
+              DiskBox[3, 0.19999999999999987], 
+              DiskBox[4, 0.19999999999999987], 
+              DiskBox[5, 0.19999999999999987], 
+              DiskBox[6, 0.19999999999999987]}}], 
+           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
+          FormatType->TraditionalForm,
+          FrameTicks->None,
+          ImagePadding->0,
+          ImageSize->100], {2.019065052986808, 2.526773683280538}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
+         GraphicsBox[{
+           GraphicsComplexBox[{{-0.8660254037844389, 0.5000000000000008}, {
+            1.8369701987210297`*^-16, 
+            1.}, {-0.8660254037844384, -0.49999999999999933`}, {
+            0.8660254037844386, 0.4999999999999993}, {
+            3.8285686989269494`*^-16, -1.}, {
+            0.8660254037844389, -0.5000000000000012}}, {
+             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
+              LineBox[{{1, 2}, {1, 3}, {2, 3}, {3, 4}, {3, 5}, {4, 5}, {5, 
+               6}}]}, 
+             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
+              DiskBox[1, 0.19999999999999987], 
+              DiskBox[2, 0.19999999999999987], 
+              DiskBox[3, 0.19999999999999987], 
+              DiskBox[4, 0.19999999999999987], 
+              DiskBox[5, 0.19999999999999987], 
+              DiskBox[6, 0.19999999999999987]}}], 
+           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
+          FormatType->TraditionalForm,
+          FrameTicks->None,
+          ImagePadding->0,
+          ImageSize->100], {1.350358295569337, 1.8789232477875923}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
+         GraphicsBox[{
+           GraphicsComplexBox[{{-0.8660254037844389, 0.5000000000000008}, {
+            1.8369701987210297`*^-16, 
+            1.}, {-0.8660254037844384, -0.49999999999999933`}, {
+            3.8285686989269494`*^-16, -1.}, {0.8660254037844386, 
+            0.4999999999999993}, {0.8660254037844389, -0.5000000000000012}}, {
+             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
+              LineBox[{{1, 2}, {1, 3}, {2, 3}, {3, 4}, {4, 5}, {4, 6}, {5, 
+               6}}]}, 
+             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
+              DiskBox[1, 0.19999999999999987], 
+              DiskBox[2, 0.19999999999999987], 
+              DiskBox[3, 0.19999999999999987], 
+              DiskBox[4, 0.19999999999999987], 
+              DiskBox[5, 0.19999999999999987], 
+              DiskBox[6, 0.19999999999999987]}}], 
+           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
+          FormatType->TraditionalForm,
+          FrameTicks->None,
+          ImagePadding->0,
+          ImageSize->100], {0.06886984696997178, 0.5850040594813193}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
          GraphicsBox[{
            GraphicsComplexBox[{{-0.8660254037844389, 
             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
+-0.49999999999999933`}, {0.8660254037844386, 0.4999999999999993}, {
+            1.8369701987210297`*^-16, 1.}, {3.8285686989269494`*^-16, -1.}, {
+            0.8660254037844389, -0.5000000000000012}}, {
              {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 2}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{5, 6}, 0.19999999999999987`]}}, 
+              LineBox[{{1, 2}, {2, 4}, {2, 5}, {3, 4}, {3, 5}, {4, 5}, {5, 
+               6}}]}, 
              {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
               DiskBox[1, 0.19999999999999987], 
               DiskBox[2, 0.19999999999999987], 
@@ -4722,21 +4551,219 @@ Cell[BoxData[
           FormatType->TraditionalForm,
           FrameTicks->None,
           ImagePadding->0,
-          ImageSize->100], {2.5510691964018175, 3.6244258933489046}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}], InsetBox[
+          ImageSize->100], {1.4860848739412202, 1.3492188398162055}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
+         GraphicsBox[{
+           GraphicsComplexBox[{{-0.8660254037844389, 0.5000000000000008}, {
+            0.8660254037844386, 0.4999999999999993}, {
+            1.8369701987210297`*^-16, 
+            1.}, {-0.8660254037844384, -0.49999999999999933`}, {
+            3.8285686989269494`*^-16, -1.}, {
+            0.8660254037844389, -0.5000000000000012}}, {
+             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
+              LineBox[{{1, 3}, {1, 4}, {2, 3}, {2, 4}, {3, 4}, {4, 5}, {5, 
+               6}}]}, 
+             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
+              DiskBox[1, 0.19999999999999987], 
+              DiskBox[2, 0.19999999999999987], 
+              DiskBox[3, 0.19999999999999987], 
+              DiskBox[4, 0.19999999999999987], 
+              DiskBox[5, 0.19999999999999987], 
+              DiskBox[6, 0.19999999999999987]}}], 
+           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
+          FormatType->TraditionalForm,
+          FrameTicks->None,
+          ImagePadding->0,
+          ImageSize->100], {0.967606255894675, 0.9325140777289143}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
+         GraphicsBox[{
+           GraphicsComplexBox[{{-0.8660254037844389, 0.5000000000000008}, {
+            0.8660254037844386, 0.4999999999999993}, {
+            1.8369701987210297`*^-16, 
+            1.}, {-0.8660254037844384, -0.49999999999999933`}, {
+            0.8660254037844389, -0.5000000000000012}, {
+            3.8285686989269494`*^-16, -1.}}, {
+             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
+              LineBox[{{1, 3}, {1, 4}, {2, 3}, {2, 4}, {4, 5}, {4, 6}, {5, 
+               6}}]}, 
+             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
+              DiskBox[1, 0.19999999999999987], 
+              DiskBox[2, 0.19999999999999987], 
+              DiskBox[3, 0.19999999999999987], 
+              DiskBox[4, 0.19999999999999987], 
+              DiskBox[5, 0.19999999999999987], 
+              DiskBox[6, 0.19999999999999987]}}], 
+           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
+          FormatType->TraditionalForm,
+          FrameTicks->None,
+          ImagePadding->0,
+          ImageSize->100], {1.9697563865053174, 0.8963729091123096}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
+         GraphicsBox[{
+           GraphicsComplexBox[{{-0.8660254037844389, 0.5000000000000008}, {
+            1.8369701987210297`*^-16, 
+            1.}, {-0.8660254037844384, -0.49999999999999933`}, {
+            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
+            0.4999999999999993}, {3.8285686989269494`*^-16, -1.}}, {
+             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
+              LineBox[{{1, 2}, {1, 3}, {2, 3}, {3, 5}, {3, 6}, {4, 5}, {4, 
+               6}, {5, 6}}]}, 
+             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
+              DiskBox[1, 0.19999999999999987], 
+              DiskBox[2, 0.19999999999999987], 
+              DiskBox[3, 0.19999999999999987], 
+              DiskBox[4, 0.19999999999999987], 
+              DiskBox[5, 0.19999999999999987], 
+              DiskBox[6, 0.19999999999999987]}}], 
+           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
+          FormatType->TraditionalForm,
+          FrameTicks->None,
+          ImagePadding->0,
+          ImageSize->100], {2.2289932089274367, 1.7023146787797838}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
+         GraphicsBox[{
+           GraphicsComplexBox[{{-0.8660254037844389, 0.5000000000000008}, {
+            1.8369701987210297`*^-16, 1.}, {
+            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
+            0.4999999999999993}, {-0.8660254037844384, \
+-0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}}, {
+             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
+              LineBox[{{1, 2}, {1, 4}, {1, 5}, {2, 4}, {2, 5}, {3, 4}, {3, 
+               5}, {5, 6}}]}, 
+             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
+              DiskBox[1, 0.19999999999999987], 
+              DiskBox[2, 0.19999999999999987], 
+              DiskBox[3, 0.19999999999999987], 
+              DiskBox[4, 0.19999999999999987], 
+              DiskBox[5, 0.19999999999999987], 
+              DiskBox[6, 0.19999999999999987]}}], 
+           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
+          FormatType->TraditionalForm,
+          FrameTicks->None,
+          ImagePadding->0,
+          ImageSize->100], {2.0134663523843814, 0.49763416781333913}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
+         GraphicsBox[{
+           GraphicsComplexBox[{{-0.8660254037844389, 0.5000000000000008}, {
+            0.8660254037844389, -0.5000000000000012}, {
+            1.8369701987210297`*^-16, 1.}, {0.8660254037844386, 
+            0.4999999999999993}, {-0.8660254037844384, \
+-0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}}, {
+             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
+              LineBox[{{1, 3}, {1, 4}, {1, 5}, {2, 3}, {2, 4}, {2, 5}, {4, 
+               5}, {5, 6}}]}, 
+             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
+              DiskBox[1, 0.19999999999999987], 
+              DiskBox[2, 0.19999999999999987], 
+              DiskBox[3, 0.19999999999999987], 
+              DiskBox[4, 0.19999999999999987], 
+              DiskBox[5, 0.19999999999999987], 
+              DiskBox[6, 0.19999999999999987]}}], 
+           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
+          FormatType->TraditionalForm,
+          FrameTicks->None,
+          ImagePadding->0,
+          ImageSize->100], {3.051283701600039, 2.3660851839562707}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
+         GraphicsBox[{
+           GraphicsComplexBox[{{-0.8660254037844389, 0.5000000000000008}, {
+            0.8660254037844386, 0.4999999999999993}, {
+            1.8369701987210297`*^-16, 
+            1.}, {-0.8660254037844384, -0.49999999999999933`}, {
+            0.8660254037844389, -0.5000000000000012}, {
+            3.8285686989269494`*^-16, -1.}}, {
+             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
+              LineBox[{{1, 3}, {1, 4}, {2, 3}, {2, 4}, {3, 4}, {4, 5}, {4, 
+               6}, {5, 6}}]}, 
+             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
+              DiskBox[1, 0.19999999999999987], 
+              DiskBox[2, 0.19999999999999987], 
+              DiskBox[3, 0.19999999999999987], 
+              DiskBox[4, 0.19999999999999987], 
+              DiskBox[5, 0.19999999999999987], 
+              DiskBox[6, 0.19999999999999987]}}], 
+           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
+          FormatType->TraditionalForm,
+          FrameTicks->None,
+          ImagePadding->0,
+          ImageSize->100], {1.194297345268978, 0.24658643726007778}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
+         GraphicsBox[{
+           GraphicsComplexBox[{{-0.8660254037844389, 0.5000000000000008}, {
+            0.8660254037844389, -0.5000000000000012}, {
+            1.8369701987210297`*^-16, 1.}, {3.8285686989269494`*^-16, -1.}, {
+            0.8660254037844386, 
+            0.4999999999999993}, {-0.8660254037844384, \
+-0.49999999999999933`}}, {
+             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
+              LineBox[{{1, 3}, {1, 5}, {1, 6}, {2, 3}, {2, 5}, {2, 6}, {4, 
+               5}, {4, 6}}]}, 
+             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
+              DiskBox[1, 0.19999999999999987], 
+              DiskBox[2, 0.19999999999999987], 
+              DiskBox[3, 0.19999999999999987], 
+              DiskBox[4, 0.19999999999999987], 
+              DiskBox[5, 0.19999999999999987], 
+              DiskBox[6, 0.19999999999999987]}}], 
+           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
+          FormatType->TraditionalForm,
+          FrameTicks->None,
+          ImagePadding->0,
+          ImageSize->100], {3.9148593856553577, 0.6273215564527941}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
+         GraphicsBox[{
+           GraphicsComplexBox[{{-0.8660254037844389, 0.5000000000000008}, {
+            1.8369701987210297`*^-16, 1.}, {0.8660254037844386, 
+            0.4999999999999993}, {3.8285686989269494`*^-16, -1.}, {
+            0.8660254037844389, -0.5000000000000012}, {-0.8660254037844384, \
+-0.49999999999999933`}}, {
+             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
+              LineBox[{{1, 2}, {1, 3}, {1, 5}, {1, 6}, {2, 3}, {2, 5}, {2, 
+               6}, {4, 5}, {4, 6}}]}, 
+             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
+              DiskBox[1, 0.19999999999999987], 
+              DiskBox[2, 0.19999999999999987], 
+              DiskBox[3, 0.19999999999999987], 
+              DiskBox[4, 0.19999999999999987], 
+              DiskBox[5, 0.19999999999999987], 
+              DiskBox[6, 0.19999999999999987]}}], 
+           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
+          FormatType->TraditionalForm,
+          FrameTicks->None,
+          ImagePadding->0,
+          ImageSize->100], {3.73404952765904, 1.5563519773816932}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
+         GraphicsBox[{
+           GraphicsComplexBox[{{-0.8660254037844389, 0.5000000000000008}, {
+            1.8369701987210297`*^-16, 1.}, {
+            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
+            0.4999999999999993}, {-0.8660254037844384, \
+-0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}}, {
+             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
+              LineBox[{{1, 2}, {1, 4}, {1, 5}, {2, 4}, {2, 5}, {3, 4}, {3, 
+               5}, {4, 5}, {5, 6}}]}, 
+             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
+              DiskBox[1, 0.19999999999999987], 
+              DiskBox[2, 0.19999999999999987], 
+              DiskBox[3, 0.19999999999999987], 
+              DiskBox[4, 0.19999999999999987], 
+              DiskBox[5, 0.19999999999999987], 
+              DiskBox[6, 0.19999999999999987]}}], 
+           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
+          FormatType->TraditionalForm,
+          FrameTicks->None,
+          ImagePadding->0,
+          ImageSize->100], {1.6191426125710224, 0.08121253866051847}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
          GraphicsBox[{
            GraphicsComplexBox[{{-0.8660254037844389, 
             0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
+-0.49999999999999933`}, {1.8369701987210297`*^-16, 1.}, {
             0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
+            0.4999999999999993}, {3.8285686989269494`*^-16, -1.}}, {
              {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{5, 6}, 0.19999999999999987`]}}, 
+              LineBox[{{1, 2}, {2, 3}, {2, 5}, {2, 6}, {3, 5}, {3, 6}, {4, 
+               5}, {4, 6}, {5, 6}}]}, 
              {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
               DiskBox[1, 0.19999999999999987], 
               DiskBox[2, 0.19999999999999987], 
@@ -4748,22 +4775,17 @@ Cell[BoxData[
           FormatType->TraditionalForm,
           FrameTicks->None,
           ImagePadding->0,
-          ImageSize->100], {2.543246560537428, 2.140739340483678}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}], InsetBox[
+          ImageSize->100], {2.66033728579397, 1.921688212342152}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
          GraphicsBox[{
-           GraphicsComplexBox[{{-0.8660254037844389, 
-            0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
+           GraphicsComplexBox[{{-0.8660254037844389, 0.5000000000000008}, {
+            0.8660254037844389, -0.5000000000000012}, {
+            1.8369701987210297`*^-16, 1.}, {0.8660254037844386, 
+            0.4999999999999993}, {-0.8660254037844384, \
+-0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}}, {
              {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 2}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{5, 6}, 0.19999999999999987`]}}, 
+              LineBox[{{1, 3}, {1, 4}, {1, 5}, {2, 3}, {2, 4}, {2, 5}, {3, 
+               4}, {3, 5}, {5, 6}}]}, 
              {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
               DiskBox[1, 0.19999999999999987], 
               DiskBox[2, 0.19999999999999987], 
@@ -4775,22 +4797,17 @@ Cell[BoxData[
           FormatType->TraditionalForm,
           FrameTicks->None,
           ImagePadding->0,
-          ImageSize->100], {2.071913872251164, 2.339043878954218}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}], InsetBox[
+          ImageSize->100], {2.5527547724336714, 1.2829583719892834}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
          GraphicsBox[{
-           GraphicsComplexBox[{{-0.8660254037844389, 
-            0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
+           GraphicsComplexBox[{{-0.8660254037844389, 0.5000000000000008}, {
+            1.8369701987210297`*^-16, 1.}, {0.8660254037844386, 
+            0.4999999999999993}, {3.8285686989269494`*^-16, -1.}, {
+            0.8660254037844389, -0.5000000000000012}, {-0.8660254037844384, \
+-0.49999999999999933`}}, {
              {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 2}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{5, 6}, 0.19999999999999987`]}}, 
+              LineBox[{{1, 2}, {1, 3}, {1, 5}, {1, 6}, {2, 3}, {2, 5}, {2, 
+               6}, {4, 5}, {4, 6}, {5, 6}}]}, 
              {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
               DiskBox[1, 0.19999999999999987], 
               DiskBox[2, 0.19999999999999987], 
@@ -4802,22 +4819,18 @@ Cell[BoxData[
           FormatType->TraditionalForm,
           FrameTicks->None,
           ImagePadding->0,
-          ImageSize->100], {3.1345212549006654, 1.5707119751545648}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}], InsetBox[
+          ImageSize->100], {4.025640401821496, 2.4243786507843295}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
          GraphicsBox[{
-           GraphicsComplexBox[{{-0.8660254037844389, 
-            0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
+           GraphicsComplexBox[{{-0.8660254037844389, 0.5000000000000008}, {
+            0.8660254037844389, -0.5000000000000012}, {
+            1.8369701987210297`*^-16, 1.}, {3.8285686989269494`*^-16, -1.}, {
+            0.8660254037844386, 
+            0.4999999999999993}, {-0.8660254037844384, \
+-0.49999999999999933`}}, {
              {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 2}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{5, 6}, 0.19999999999999987`]}}, 
+              LineBox[{{1, 3}, {1, 5}, {1, 6}, {2, 3}, {2, 5}, {2, 6}, {3, 
+               5}, {3, 6}, {4, 5}, {4, 6}}]}, 
              {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
               DiskBox[1, 0.19999999999999987], 
               DiskBox[2, 0.19999999999999987], 
@@ -4829,22 +4842,17 @@ Cell[BoxData[
           FormatType->TraditionalForm,
           FrameTicks->None,
           ImagePadding->0,
-          ImageSize->100], {4.50266261371792, 0.8348660444877893}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}], InsetBox[
+          ImageSize->100], {3.0477952005140816, 0.8953995442012171}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
          GraphicsBox[{
-           GraphicsComplexBox[{{-0.8660254037844389, 
-            0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
+           GraphicsComplexBox[{{-0.8660254037844389, 0.5000000000000008}, {
+            1.8369701987210297`*^-16, 1.}, {3.8285686989269494`*^-16, -1.}, {
+            0.8660254037844386, 0.4999999999999993}, {
+            0.8660254037844389, -0.5000000000000012}, {-0.8660254037844384, \
+-0.49999999999999933`}}, {
              {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 2}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{5, 6}, 0.19999999999999987`]}}, 
+              LineBox[{{1, 2}, {1, 4}, {1, 5}, {1, 6}, {2, 4}, {2, 5}, {2, 
+               6}, {3, 4}, {3, 5}, {3, 6}, {5, 6}}]}, 
              {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
               DiskBox[1, 0.19999999999999987], 
               DiskBox[2, 0.19999999999999987], 
@@ -4856,22 +4864,18 @@ Cell[BoxData[
           FormatType->TraditionalForm,
           FrameTicks->None,
           ImagePadding->0,
-          ImageSize->100], {2.2858110833271237, 2.9746511785113077}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}], InsetBox[
+          ImageSize->100], {3.146477019494383, 0.1584277153310547}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
          GraphicsBox[{
-           GraphicsComplexBox[{{-0.8660254037844389, 
-            0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
+           GraphicsComplexBox[{{-0.8660254037844389, 0.5000000000000008}, {
+            0.8660254037844389, -0.5000000000000012}, {
+            1.8369701987210297`*^-16, 1.}, {3.8285686989269494`*^-16, -1.}, {
+            0.8660254037844386, 
+            0.4999999999999993}, {-0.8660254037844384, \
+-0.49999999999999933`}}, {
              {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{5, 6}, 0.19999999999999987`]}}, 
+              LineBox[{{1, 3}, {1, 5}, {1, 6}, {2, 3}, {2, 5}, {2, 6}, {3, 
+               5}, {3, 6}, {4, 5}, {4, 6}, {5, 6}}]}, 
              {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
               DiskBox[1, 0.19999999999999987], 
               DiskBox[2, 0.19999999999999987], 
@@ -4883,22 +4887,17 @@ Cell[BoxData[
           FormatType->TraditionalForm,
           FrameTicks->None,
           ImagePadding->0,
-          ImageSize->100], {3.4763489137307326, 1.872870945802687}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}], InsetBox[
+          ImageSize->100], {2.7849721411829824, 0.33474705239409774}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}], InsetBox[
          GraphicsBox[{
-           GraphicsComplexBox[{{-0.8660254037844389, 
-            0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
+           GraphicsComplexBox[{{-0.8660254037844389, 0.5000000000000008}, {
+            1.8369701987210297`*^-16, 1.}, {3.8285686989269494`*^-16, -1.}, {
+            0.8660254037844386, 0.4999999999999993}, {
+            0.8660254037844389, -0.5000000000000012}, {-0.8660254037844384, \
+-0.49999999999999933`}}, {
              {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{5, 6}, 0.19999999999999987`]}}, 
+              LineBox[{{1, 2}, {1, 4}, {1, 5}, {1, 6}, {2, 4}, {2, 5}, {2, 
+               6}, {3, 4}, {3, 5}, {3, 6}, {4, 5}, {4, 6}}]}, 
              {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
               DiskBox[1, 0.19999999999999987], 
               DiskBox[2, 0.19999999999999987], 
@@ -4910,418 +4909,8 @@ Cell[BoxData[
           FormatType->TraditionalForm,
           FrameTicks->None,
           ImagePadding->0,
-          ImageSize->100], {2.645870114514797, 1.2165079174484688}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}], InsetBox[
-         GraphicsBox[{
-           GraphicsComplexBox[{{-0.8660254037844389, 
-            0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
-             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 2}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{5, 6}, 0.19999999999999987`]}}, 
-             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
-              DiskBox[1, 0.19999999999999987], 
-              DiskBox[2, 0.19999999999999987], 
-              DiskBox[3, 0.19999999999999987], 
-              DiskBox[4, 0.19999999999999987], 
-              DiskBox[5, 0.19999999999999987], 
-              DiskBox[6, 0.19999999999999987]}}], 
-           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
-          FormatType->TraditionalForm,
-          FrameTicks->None,
-          ImagePadding->0,
-          ImageSize->100], {2.233785314438957, 1.416696246415658}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}], InsetBox[
-         GraphicsBox[{
-           GraphicsComplexBox[{{-0.8660254037844389, 
-            0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
-             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 2}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{5, 6}, 0.19999999999999987`]}}, 
-             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
-              DiskBox[1, 0.19999999999999987], 
-              DiskBox[2, 0.19999999999999987], 
-              DiskBox[3, 0.19999999999999987], 
-              DiskBox[4, 0.19999999999999987], 
-              DiskBox[5, 0.19999999999999987], 
-              DiskBox[6, 0.19999999999999987]}}], 
-           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
-          FormatType->TraditionalForm,
-          FrameTicks->None,
-          ImagePadding->0,
-          ImageSize->100], {2.2547391304748565, 1.809759664400163}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}], InsetBox[
-         GraphicsBox[{
-           GraphicsComplexBox[{{-0.8660254037844389, 
-            0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
-             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{5, 6}, 0.19999999999999987`]}}, 
-             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
-              DiskBox[1, 0.19999999999999987], 
-              DiskBox[2, 0.19999999999999987], 
-              DiskBox[3, 0.19999999999999987], 
-              DiskBox[4, 0.19999999999999987], 
-              DiskBox[5, 0.19999999999999987], 
-              DiskBox[6, 0.19999999999999987]}}], 
-           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
-          FormatType->TraditionalForm,
-          FrameTicks->None,
-          ImagePadding->0,
-          ImageSize->100], {1.0793212841646038, 2.04948362360938}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}], InsetBox[
-         GraphicsBox[{
-           GraphicsComplexBox[{{-0.8660254037844389, 
-            0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
-             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{5, 6}, 0.19999999999999987`]}}, 
-             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
-              DiskBox[1, 0.19999999999999987], 
-              DiskBox[2, 0.19999999999999987], 
-              DiskBox[3, 0.19999999999999987], 
-              DiskBox[4, 0.19999999999999987], 
-              DiskBox[5, 0.19999999999999987], 
-              DiskBox[6, 0.19999999999999987]}}], 
-           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
-          FormatType->TraditionalForm,
-          FrameTicks->None,
-          ImagePadding->0,
-          ImageSize->100], {3.4803289683874503, 0.8417050136109465}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}], InsetBox[
-         GraphicsBox[{
-           GraphicsComplexBox[{{-0.8660254037844389, 
-            0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
-             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 6}, 0.19999999999999987`]}}, 
-             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
-              DiskBox[1, 0.19999999999999987], 
-              DiskBox[2, 0.19999999999999987], 
-              DiskBox[3, 0.19999999999999987], 
-              DiskBox[4, 0.19999999999999987], 
-              DiskBox[5, 0.19999999999999987], 
-              DiskBox[6, 0.19999999999999987]}}], 
-           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
-          FormatType->TraditionalForm,
-          FrameTicks->None,
-          ImagePadding->0,
-          ImageSize->100], {0.38682517332463995, 1.241267030193889}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}], InsetBox[
-         GraphicsBox[{
-           GraphicsComplexBox[{{-0.8660254037844389, 
-            0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
-             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 2}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 6}, 0.19999999999999987`]}}, 
-             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
-              DiskBox[1, 0.19999999999999987], 
-              DiskBox[2, 0.19999999999999987], 
-              DiskBox[3, 0.19999999999999987], 
-              DiskBox[4, 0.19999999999999987], 
-              DiskBox[5, 0.19999999999999987], 
-              DiskBox[6, 0.19999999999999987]}}], 
-           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
-          FormatType->TraditionalForm,
-          FrameTicks->None,
-          ImagePadding->0,
-          ImageSize->100], {0.542195059512071, 1.8023462315855299}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}], InsetBox[
-         GraphicsBox[{
-           GraphicsComplexBox[{{-0.8660254037844389, 
-            0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
-             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 2}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{5, 6}, 0.19999999999999987`]}}, 
-             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
-              DiskBox[1, 0.19999999999999987], 
-              DiskBox[2, 0.19999999999999987], 
-              DiskBox[3, 0.19999999999999987], 
-              DiskBox[4, 0.19999999999999987], 
-              DiskBox[5, 0.19999999999999987], 
-              DiskBox[6, 0.19999999999999987]}}], 
-           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
-          FormatType->TraditionalForm,
-          FrameTicks->None,
-          ImagePadding->0,
-          ImageSize->100], {2.5377948162194426, 2.5159680891452285}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}], InsetBox[
-         GraphicsBox[{
-           GraphicsComplexBox[{{-0.8660254037844389, 
-            0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
-             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 2}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{5, 6}, 0.19999999999999987`]}}, 
-             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
-              DiskBox[1, 0.19999999999999987], 
-              DiskBox[2, 0.19999999999999987], 
-              DiskBox[3, 0.19999999999999987], 
-              DiskBox[4, 0.19999999999999987], 
-              DiskBox[5, 0.19999999999999987], 
-              DiskBox[6, 0.19999999999999987]}}], 
-           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
-          FormatType->TraditionalForm,
-          FrameTicks->None,
-          ImagePadding->0,
-          ImageSize->100], {1.4144413363726724, 2.543860507898475}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}], InsetBox[
-         GraphicsBox[{
-           GraphicsComplexBox[{{-0.8660254037844389, 
-            0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
-             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{5, 6}, 0.19999999999999987`]}}, 
-             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
-              DiskBox[1, 0.19999999999999987], 
-              DiskBox[2, 0.19999999999999987], 
-              DiskBox[3, 0.19999999999999987], 
-              DiskBox[4, 0.19999999999999987], 
-              DiskBox[5, 0.19999999999999987], 
-              DiskBox[6, 0.19999999999999987]}}], 
-           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
-          FormatType->TraditionalForm,
-          FrameTicks->None,
-          ImagePadding->0,
-          ImageSize->100], {1.9655992718657154, 1.086734059230567}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}], InsetBox[
-         GraphicsBox[{
-           GraphicsComplexBox[{{-0.8660254037844389, 
-            0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
-             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 2}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{5, 6}, 0.19999999999999987`]}}, 
-             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
-              DiskBox[1, 0.19999999999999987], 
-              DiskBox[2, 0.19999999999999987], 
-              DiskBox[3, 0.19999999999999987], 
-              DiskBox[4, 0.19999999999999987], 
-              DiskBox[5, 0.19999999999999987], 
-              DiskBox[6, 0.19999999999999987]}}], 
-           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
-          FormatType->TraditionalForm,
-          FrameTicks->None,
-          ImagePadding->0,
-          ImageSize->100], {0., 2.216158062943545}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}], InsetBox[
-         GraphicsBox[{
-           GraphicsComplexBox[{{-0.8660254037844389, 
-            0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
-             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 6}, 0.19999999999999987`]}}, 
-             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
-              DiskBox[1, 0.19999999999999987], 
-              DiskBox[2, 0.19999999999999987], 
-              DiskBox[3, 0.19999999999999987], 
-              DiskBox[4, 0.19999999999999987], 
-              DiskBox[5, 0.19999999999999987], 
-              DiskBox[6, 0.19999999999999987]}}], 
-           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
-          FormatType->TraditionalForm,
-          FrameTicks->None,
-          ImagePadding->0,
-          ImageSize->100], {1.3539250668213485, 1.0082713159403125}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}], InsetBox[
-         GraphicsBox[{
-           GraphicsComplexBox[{{-0.8660254037844389, 
-            0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
-             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 2}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{5, 6}, 0.19999999999999987`]}}, 
-             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
-              DiskBox[1, 0.19999999999999987], 
-              DiskBox[2, 0.19999999999999987], 
-              DiskBox[3, 0.19999999999999987], 
-              DiskBox[4, 0.19999999999999987], 
-              DiskBox[5, 0.19999999999999987], 
-              DiskBox[6, 0.19999999999999987]}}], 
-           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
-          FormatType->TraditionalForm,
-          FrameTicks->None,
-          ImagePadding->0,
-          ImageSize->100], {1.9436301511365064, 0.}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}], InsetBox[
-         GraphicsBox[{
-           GraphicsComplexBox[{{-0.8660254037844389, 
-            0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
-             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 3}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{5, 6}, 0.19999999999999987`]}}, 
-             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
-              DiskBox[1, 0.19999999999999987], 
-              DiskBox[2, 0.19999999999999987], 
-              DiskBox[3, 0.19999999999999987], 
-              DiskBox[4, 0.19999999999999987], 
-              DiskBox[5, 0.19999999999999987], 
-              DiskBox[6, 0.19999999999999987]}}], 
-           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
-          FormatType->TraditionalForm,
-          FrameTicks->None,
-          ImagePadding->0,
-          ImageSize->100], {1.565783787330909, 1.5606347380830006}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}], InsetBox[
-         GraphicsBox[{
-           GraphicsComplexBox[{{-0.8660254037844389, 
-            0.5000000000000008}, {-0.8660254037844384, \
--0.49999999999999933`}, {3.8285686989269494`*^-16, -1.}, {
-            0.8660254037844389, -0.5000000000000012}, {0.8660254037844386, 
-            0.4999999999999993}, {1.8369701987210297`*^-16, 1.}}, {
-             {Hue[0.6, 0.7, 0.5], Thickness[0.004], Opacity[0.7], 
-              {Arrowheads[0.], ArrowBox[{1, 2}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{1, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{2, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 4}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{3, 6}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 5}, 0.19999999999999987`]}, 
-              {Arrowheads[0.], ArrowBox[{4, 6}, 0.19999999999999987`]}}, 
-             {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], 
-              DiskBox[1, 0.19999999999999987], 
-              DiskBox[2, 0.19999999999999987], 
-              DiskBox[3, 0.19999999999999987], 
-              DiskBox[4, 0.19999999999999987], 
-              DiskBox[5, 0.19999999999999987], 
-              DiskBox[6, 0.19999999999999987]}}], 
-           {GrayLevel[0], Thickness[0.02], CircleBox[{0, 0}, 1.6]}},
-          FormatType->TraditionalForm,
-          FrameTicks->None,
-          ImagePadding->0,
-          ImageSize->100], {2.3652459533438694, 0.6120540210667}, 
-         Automatic, {0.22516101066072652, 0.22516101066072652}]}}],
+          ImageSize->100], {2.3796735029997906, 0.}, 
+         Automatic, {0.21887014631015317, 0.21887014631015317}]}}],
      MouseAppearanceTag["NetworkGraphics"]],
     AllowKernelInitialization->False]],
   DefaultBaseStyle->{
@@ -5333,9 +4922,10 @@ Cell[BoxData[
    3.7766855781707983`*^9, {3.7783361536726933`*^9, 3.7783361614703784`*^9}, 
    3.7783370088155594`*^9, 3.7783377062490273`*^9, {3.7784145550464277`*^9, 
    3.7784145831556673`*^9}, {3.778414617906746*^9, 3.778414781044882*^9}, {
-   3.778414822637766*^9, 3.7784148709762125`*^9}, 3.7795600761593213`*^9},
+   3.778414822637766*^9, 3.7784148709762125`*^9}, 3.7795600761593213`*^9, 
+   3.7916276537971153`*^9, 3.791628705452711*^9},
  CellLabel->
-  "Out[132]=",ExpressionUUID->"92e651b8-5d2d-4796-be1d-d7c794a9dd0f"]
+  "Out[167]=",ExpressionUUID->"c7672a3a-809c-4745-a1af-f3c1e4272802"]
 }, Open  ]]
 }, Open  ]],
 
@@ -5400,7 +4990,7 @@ Cell[BoxData[
  CellChangeTimes->{{3.7694260758822913`*^9, 3.7694260797726803`*^9}, {
    3.76942635029673*^9, 3.769426357125413*^9}, 3.7728033990833955`*^9},
  CellLabel->
-  "In[335]:=",ExpressionUUID->"b7370530-4f03-4fdc-ad82-43f62857b7e6"],
+  "In[168]:=",ExpressionUUID->"b7370530-4f03-4fdc-ad82-43f62857b7e6"],
 
 Cell[BoxData[
  RowBox[{"{", 
@@ -5479,6 +5069,13 @@ fgFx1RP5fJaOq8+f/gafhAGF
       GrayLevel[0], FontFamily -> "Helvetica", FontSize -> 10},
     Method->{
      "GridLinesInFront" -> True, "DefaultBoundaryStyle" -> Automatic, 
+      "DefaultGraphicsInteraction" -> {
+       "Version" -> 1.2, "TrackMousePosition" -> {True, False}, 
+        "Effects" -> {
+         "Highlight" -> {"ratio" -> 2}, "HighlightPoint" -> {"ratio" -> 2}, 
+          "Droplines" -> {
+           "freeformCursorMode" -> True, 
+            "placement" -> {"x" -> "All", "y" -> "None"}}}}, 
       "DefaultPlotStyle" -> Automatic},
     PlotRangePadding->0], ",", 
    TagBox[GridBox[{
@@ -5501,9 +5098,8 @@ fgFx1RP5fJaOq8+f/gafhAGF
            
            ImageSize->
             Dynamic[{
-             Automatic, 
-              1.35 (CurrentValue["FontCapHeight"]/AbsoluteCurrentValue[
-               Magnification])}],
+             Automatic, 1.35 CurrentValue["FontCapHeight"]/
+              AbsoluteCurrentValue[Magnification]}],
            PlotRangePadding->None],
           StyleBox[
            RowBox[{"RGBColor", "[", 
@@ -5552,9 +5148,8 @@ fgFx1RP5fJaOq8+f/gafhAGF
            
            ImageSize->
             Dynamic[{
-             Automatic, 
-              1.35 (CurrentValue["FontCapHeight"]/AbsoluteCurrentValue[
-               Magnification])}],
+             Automatic, 1.35 CurrentValue["FontCapHeight"]/
+              AbsoluteCurrentValue[Magnification]}],
            PlotRangePadding->None],
           StyleBox[
            RowBox[{"RGBColor", "[", 
@@ -5603,9 +5198,8 @@ fgFx1RP5fJaOq8+f/gafhAGF
            
            ImageSize->
             Dynamic[{
-             Automatic, 
-              1.35 (CurrentValue["FontCapHeight"]/AbsoluteCurrentValue[
-               Magnification])}],
+             Automatic, 1.35 CurrentValue["FontCapHeight"]/
+              AbsoluteCurrentValue[Magnification]}],
            PlotRangePadding->None],
           StyleBox[
            RowBox[{"RGBColor", "[", 
@@ -5654,9 +5248,8 @@ fgFx1RP5fJaOq8+f/gafhAGF
            
            ImageSize->
             Dynamic[{
-             Automatic, 
-              1.35 (CurrentValue["FontCapHeight"]/AbsoluteCurrentValue[
-               Magnification])}],
+             Automatic, 1.35 CurrentValue["FontCapHeight"]/
+              AbsoluteCurrentValue[Magnification]}],
            PlotRangePadding->None],
           StyleBox[
            RowBox[{"RGBColor", "[", 
@@ -5705,9 +5298,8 @@ fgFx1RP5fJaOq8+f/gafhAGF
            
            ImageSize->
             Dynamic[{
-             Automatic, 
-              1.35 (CurrentValue["FontCapHeight"]/AbsoluteCurrentValue[
-               Magnification])}],
+             Automatic, 1.35 CurrentValue["FontCapHeight"]/
+              AbsoluteCurrentValue[Magnification]}],
            PlotRangePadding->None],
           StyleBox[
            RowBox[{"RGBColor", "[", 
@@ -5756,9 +5348,8 @@ fgFx1RP5fJaOq8+f/gafhAGF
            
            ImageSize->
             Dynamic[{
-             Automatic, 
-              1.35 (CurrentValue["FontCapHeight"]/AbsoluteCurrentValue[
-               Magnification])}],
+             Automatic, 1.35 CurrentValue["FontCapHeight"]/
+              AbsoluteCurrentValue[Magnification]}],
            PlotRangePadding->None],
           StyleBox[
            RowBox[{"RGBColor", "[", 
@@ -5789,16 +5380,14 @@ fgFx1RP5fJaOq8+f/gafhAGF
         Editable->False,
         Selectable->False]}
      },
-     GridBoxAlignment->{
-      "Columns" -> {{Left}}, "ColumnsIndexed" -> {}, "Rows" -> {{Baseline}}, 
-       "RowsIndexed" -> {}},
+     GridBoxAlignment->{"Columns" -> {{Left}}, "Rows" -> {{Baseline}}},
      GridBoxSpacings->{"Columns" -> {
          Offset[0.27999999999999997`], {
           Offset[2.0999999999999996`]}, 
-         Offset[0.27999999999999997`]}, "ColumnsIndexed" -> {}, "Rows" -> {
+         Offset[0.27999999999999997`]}, "Rows" -> {
          Offset[0.2], {
           Offset[0.4]}, 
-         Offset[0.2]}, "RowsIndexed" -> {}}],
+         Offset[0.2]}}],
     Function[BoxForm`e$, 
      TableForm[BoxForm`e$]]], ",", 
    GraphicsBox[RasterBox[CompressedData["
@@ -5864,13 +5453,21 @@ vwBVDXo4
       GrayLevel[0], FontFamily -> "Helvetica", FontSize -> 10},
     Method->{
      "GridLinesInFront" -> True, "AxisPadding" -> Scaled[0.02], 
-      "DefaultBoundaryStyle" -> Automatic, "DefaultPlotStyle" -> Automatic, 
-      "DomainPadding" -> Scaled[0.02], "RangePadding" -> Scaled[0.05]},
+      "DefaultBoundaryStyle" -> Automatic, 
+      "DefaultGraphicsInteraction" -> {
+       "Version" -> 1.2, "TrackMousePosition" -> {True, False}, 
+        "Effects" -> {
+         "Highlight" -> {"ratio" -> 2}, "HighlightPoint" -> {"ratio" -> 2}, 
+          "Droplines" -> {
+           "freeformCursorMode" -> True, 
+            "placement" -> {"x" -> "All", "y" -> "None"}}}}, 
+      "DefaultPlotStyle" -> Automatic, "DomainPadding" -> Scaled[0.02], 
+      "RangePadding" -> Scaled[0.05]},
     PlotRangePadding->0], ",", 
    TemplateBox[{StyleBox[
       StyleBox[
        PaneBox[
-        GraphicsBox[{{}, {}, 
+        GraphicsBox[{
           
           RasterBox[{{{0.468742, 0., 0.0158236}}, {{0.822129, 0.122225, 
            0.0039559}}, {{0.920685, 0.29146233333333327`, 
@@ -5891,28 +5488,29 @@ vwBVDXo4
                Rational[15, 2], 75}, {
                Rational[15, 2], -75}}, {{7.5, -75}, {-7.5, -75}, {-7.5, 75}, {
               7.5, 75}, {7.5, -75}}]]}, {
-           CapForm[None], {}}, {Antialiasing -> False, 
-           StyleBox[
-            LineBox[{{7.5, -75.}, {7.5, 75.}}], 
-            Directive[
-             AbsoluteThickness[0.2], 
-             Opacity[0.3], 
-             GrayLevel[0]], StripOnInput -> False], 
-           StyleBox[
-            StyleBox[{{
+           CapForm[None], {}}, 
+          StyleBox[{Antialiasing -> False, 
+            StyleBox[
+             LineBox[{{7.5, -75.}, {7.5, 75.}}], 
+             Directive[
+              AbsoluteThickness[0.2], 
+              Opacity[0.3], 
+              GrayLevel[0]], StripOnInput -> False], 
+            StyleBox[
+             StyleBox[{{
+                StyleBox[
+                 LineBox[{{{7.5, -50.}, 
+                    Offset[{4., 0}, {7.5, -50.}]}, {{7.5, -25.}, 
+                    Offset[{4., 0}, {7.5, -25.}]}, {{7.5, 0.}, 
+                    Offset[{4., 0}, {7.5, 0.}]}, {{7.5, 25.}, 
+                    Offset[{4., 0}, {7.5, 25.}]}, {{7.5, 50.}, 
+                    Offset[{4., 0}, {7.5, 50.}]}}], 
+                 Directive[
+                  GrayLevel[0], 
+                  AbsoluteThickness[0.2]], StripOnInput -> False]}, 
                StyleBox[
-                LineBox[{{{7.5, -50.}, 
-                   Offset[{4., 0}, {7.5, -50.}]}, {{7.5, -25.}, 
-                   Offset[{4., 0}, {7.5, -25.}]}, {{7.5, 0.}, 
-                   Offset[{4., 0}, {7.5, 0.}]}, {{7.5, 25.}, 
-                   Offset[{4., 0}, {7.5, 25.}]}, {{7.5, 50.}, 
-                   Offset[{4., 0}, {7.5, 50.}]}}], 
-                Directive[
-                 GrayLevel[0], 
-                 AbsoluteThickness[0.2]], StripOnInput -> False]}, 
-              StyleBox[
-               StyleBox[{{
-                  StyleBox[{
+                StyleBox[{{
+                   StyleBox[{
                     InsetBox[
                     FormBox["1", TraditionalForm], 
                     Offset[{7., 0.}, {7.5, -50.}], {-1, 0.}, Automatic, {1, 
@@ -5932,21 +5530,21 @@ vwBVDXo4
                     FormBox["5", TraditionalForm], 
                     Offset[{7., 0.}, {7.5, 50.}], {-1, 0.}, Automatic, {1, 
                     0}]}, 
-                   Directive[
+                    Directive[
                     GrayLevel[0], 
                     AbsoluteThickness[0.2]], {
                     Directive[
                     Opacity[1], 
                     GrayLevel[0.3]]}, StripOnInput -> False]}, {}}, {
-                 Directive[
-                  Opacity[1], 
-                  GrayLevel[0.3]]}, StripOnInput -> False], "GraphicsLabel", 
-               StripOnInput -> False]}, "GraphicsTicks", StripOnInput -> 
-             False], 
-            Directive[
-             AbsoluteThickness[0.2], 
-             Opacity[0.3], 
-             GrayLevel[0]], StripOnInput -> False]}}, PlotRangePadding -> 
+                  Directive[
+                   Opacity[1], 
+                   GrayLevel[0.3]]}, StripOnInput -> False], "GraphicsLabel", 
+                StripOnInput -> False]}, "GraphicsTicks", StripOnInput -> 
+              False], {
+              Directive[
+               GrayLevel[0], 
+               AbsoluteThickness[0.2]]}, StripOnInput -> False]}, 
+           "GraphicsAxes", StripOnInput -> False]}, PlotRangePadding -> 
          Scaled[0.02], PlotRange -> All, Frame -> True, 
          FrameTicks -> {{False, False}, {True, False}}, FrameStyle -> 
          Opacity[0], FrameTicksStyle -> Opacity[0], 
@@ -5981,9 +5579,8 @@ vwBVDXo4
                     FrameStyle -> GrayLevel[0.], FrameTicks -> None, 
                     PlotRangePadding -> None, ImageSize -> 
                     Dynamic[{
-                    Automatic, 
-                    1.35 (CurrentValue["FontCapHeight"]/AbsoluteCurrentValue[
-                    Magnification])}]], 
+                    Automatic, 1.35 CurrentValue["FontCapHeight"]/
+                    AbsoluteCurrentValue[Magnification]}]], 
                     StyleBox[
                     RowBox[{"GrayLevel", "[", "0", "]"}], NumberMarks -> 
                     False]], Appearance -> None, BaseStyle -> {}, 
@@ -6024,9 +5621,8 @@ vwBVDXo4
                     FrameStyle -> GrayLevel[0.], FrameTicks -> None, 
                     PlotRangePadding -> None, ImageSize -> 
                     Dynamic[{
-                    Automatic, 
-                    1.35 (CurrentValue["FontCapHeight"]/AbsoluteCurrentValue[
-                    Magnification])}]], 
+                    Automatic, 1.35 CurrentValue["FontCapHeight"]/
+                    AbsoluteCurrentValue[Magnification]}]], 
                     StyleBox[
                     RowBox[{"GrayLevel", "[", "0", "]"}], NumberMarks -> 
                     False]], Appearance -> None, BaseStyle -> {}, 
@@ -6054,17 +5650,17 @@ vwBVDXo4
                     RowBox[{"FontSize", "\[Rule]", "10"}]}], "}"}]}]}], 
              "}"}]}]}], "]"}]& )]}], "}"}]], "Output",
  CellChangeTimes->{3.7728038860739665`*^9, 3.77280391731284*^9, 
-  3.7728041045239487`*^9},
+  3.7728041045239487`*^9, 3.7916276547944813`*^9, 3.791628705819728*^9},
  CellLabel->
-  "Out[342]=",ExpressionUUID->"d450968b-551a-4822-a3d0-faafec155ff4"]
+  "Out[175]=",ExpressionUUID->"bbb40f24-2125-4906-bc1d-5eff70b0a1fa"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
 },
 Evaluator->"otherlocal",
-WindowSize->{838, 958},
-WindowMargins->{{105, Automatic}, {Automatic, -1050}},
+WindowSize->{958, 1108},
+WindowMargins->{{-5, Automatic}, {1073, Automatic}},
 Magnification:>0.9 Inherited,
 FrontEndVersion->"12.0 for Microsoft Windows (64-bit) (April 8, 2019)",
 StyleDefinitions->"Default.nb"
@@ -6087,84 +5683,98 @@ Cell[CellGroupData[{
 Cell[1985, 53, 256, 4, 64, "Subsection",ExpressionUUID->"7c8d78ac-71ff-4ac6-a6f0-71c70ee256b2"],
 Cell[CellGroupData[{
 Cell[2266, 61, 159, 3, 56, "Subsubsection",ExpressionUUID->"36c1022e-b074-44ee-b1d7-8d6ed674c559"],
-Cell[2428, 66, 23146, 429, 1843, "Input",ExpressionUUID->"2d067464-a022-4d79-8071-4fdcf6a0eb05",
- InitializationCell->True]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[25611, 500, 237, 4, 56, "Subsubsection",ExpressionUUID->"1c7f1b3a-04e9-47d1-9d98-699f343fc1b3"],
-Cell[25851, 506, 5904, 144, 415, "Input",ExpressionUUID->"43a681a6-74ba-4fbd-a7c5-f581334ff521"]
-}, Closed]],
-Cell[CellGroupData[{
-Cell[31792, 655, 211, 4, 49, "Subsubsection",ExpressionUUID->"b04c62fd-967c-4d87-b281-0dbbdcbd00c1"],
-Cell[32006, 661, 5780, 142, 415, "Input",ExpressionUUID->"e4b71112-6d99-460d-b097-1ac83b22f570"]
-}, Closed]],
-Cell[CellGroupData[{
-Cell[37823, 808, 211, 4, 49, "Subsubsection",ExpressionUUID->"2e2b421f-cc71-4771-843e-9a9def2530db"],
-Cell[38037, 814, 5791, 143, 415, "Input",ExpressionUUID->"ac43734c-b85a-407e-8eff-7481bccd98cb"]
-}, Closed]],
-Cell[CellGroupData[{
-Cell[43865, 962, 211, 4, 49, "Subsubsection",ExpressionUUID->"48965ab4-a6d9-4237-b158-be518aa2aada"],
-Cell[44079, 968, 5819, 142, 415, "Input",ExpressionUUID->"e2468250-3ee0-4097-8787-2a194d17cc0b"]
-}, Closed]],
-Cell[CellGroupData[{
-Cell[49935, 1115, 280, 4, 49, "Subsubsection",ExpressionUUID->"a9cf0a88-0618-4152-9f80-8876ce24a3c6"],
-Cell[CellGroupData[{
-Cell[50240, 1123, 6592, 161, 503, "Input",ExpressionUUID->"274d9b41-f22d-4844-8486-a7c26eb60caa"],
-Cell[CellGroupData[{
-Cell[56857, 1288, 366, 7, 17, "Print",ExpressionUUID->"7e42beae-0683-4594-986d-7a628c33ae17"],
-Cell[57226, 1297, 337, 6, 17, "Print",ExpressionUUID->"a3916aa6-954d-43e2-b72e-769e99cda6b7"],
-Cell[57566, 1305, 334, 6, 17, "Print",ExpressionUUID->"f37e36c3-97ee-43ea-847c-500018a92410"],
-Cell[57903, 1313, 321, 6, 17, "Print",ExpressionUUID->"36bbdd77-4281-4065-92cf-942c909f64f7"]
-}, Open  ]]
-}, Open  ]]
-}, Closed]],
-Cell[CellGroupData[{
-Cell[58285, 1326, 338, 5, 49, "Subsubsection",ExpressionUUID->"c42432ab-bba7-45f2-8f9d-73c4be21f146"],
-Cell[58626, 1333, 6727, 164, 42, "Input",ExpressionUUID->"139c670b-916e-48b3-be9b-ff0012dc3b7c"]
-}, Closed]],
-Cell[CellGroupData[{
-Cell[65390, 1502, 233, 4, 49, "Subsubsection",ExpressionUUID->"13da6bd3-ef64-4cc8-a970-a1054d8e41e6"],
-Cell[65626, 1508, 1661, 36, 187, "Input",ExpressionUUID->"3bf8d525-6733-4182-a42a-b30ff639a708"]
-}, Open  ]]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[67336, 1550, 319, 5, 64, "Subsection",ExpressionUUID->"cf831fb6-486a-401d-9635-d78fc63291c0"],
-Cell[CellGroupData[{
-Cell[67680, 1559, 446, 7, 56, "Subsubsection",ExpressionUUID->"34330a43-6c9f-429c-9fd4-efdd702d4638"],
-Cell[68129, 1568, 1547, 28, 79, "Input",ExpressionUUID->"b2651e37-3d3c-435f-9719-78b8526ecbab"]
-}, Open  ]]
-}, Open  ]]
-}, Open  ]],
-Cell[CellGroupData[{
-Cell[69737, 1603, 289, 5, 78, "Chapter",ExpressionUUID->"a0a930aa-b9ec-4b5e-8d36-6eb56e7edf9d"],
-Cell[70029, 1610, 49726, 1170, 3284, "Input",ExpressionUUID->"22bda154-9acb-4934-b086-f16c8f96ee23",
+Cell[2428, 66, 23168, 429, 1645, "Input",ExpressionUUID->"2d067464-a022-4d79-8071-4fdcf6a0eb05",
  InitializationCell->True]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[119792, 2785, 467, 10, 80, "Title",ExpressionUUID->"2dad5fb9-fdca-4385-b630-529c3cc150d7"],
+Cell[25633, 500, 237, 4, 49, "Subsubsection",ExpressionUUID->"1c7f1b3a-04e9-47d1-9d98-699f343fc1b3"],
+Cell[25873, 506, 5904, 144, 529, "Input",ExpressionUUID->"43a681a6-74ba-4fbd-a7c5-f581334ff521"]
+}, Closed]],
 Cell[CellGroupData[{
-Cell[120284, 2799, 247, 4, 56, "Subsubsection",ExpressionUUID->"2235ba26-cf26-44c6-8f71-2bbcf7ddbca8"],
-Cell[120534, 2805, 5723, 113, 243, "Input",ExpressionUUID->"fd59f28c-5282-49e9-bafb-8236bc9e8cd4"]
-}, Open  ]],
+Cell[31814, 655, 211, 4, 49, "Subsubsection",ExpressionUUID->"b04c62fd-967c-4d87-b281-0dbbdcbd00c1"],
+Cell[32028, 661, 5780, 142, 529, "Input",ExpressionUUID->"e4b71112-6d99-460d-b097-1ac83b22f570"]
+}, Closed]],
 Cell[CellGroupData[{
-Cell[126294, 2923, 191, 3, 32, "Subsubsection",ExpressionUUID->"d781aa6f-1c36-4106-8c8a-ca1efb5a4d5f"],
+Cell[37845, 808, 211, 4, 49, "Subsubsection",ExpressionUUID->"2e2b421f-cc71-4771-843e-9a9def2530db"],
+Cell[38059, 814, 5791, 143, 511, "Input",ExpressionUUID->"ac43734c-b85a-407e-8eff-7481bccd98cb"]
+}, Closed]],
 Cell[CellGroupData[{
-Cell[126510, 2930, 3731, 70, 138, "Input",ExpressionUUID->"438ab07c-3f1e-4695-ad9a-cf93a5eb67c2"],
+Cell[43887, 962, 211, 4, 49, "Subsubsection",ExpressionUUID->"48965ab4-a6d9-4237-b158-be518aa2aada"],
+Cell[44101, 968, 5819, 142, 529, "Input",ExpressionUUID->"e2468250-3ee0-4097-8787-2a194d17cc0b"]
+}, Closed]],
 Cell[CellGroupData[{
-Cell[130266, 3004, 5168, 87, 88, "Print",ExpressionUUID->"0786f2a0-515d-4ee4-8cf8-fe10f71ed89e"],
-Cell[135437, 3093, 2947, 44, 17, "Print",ExpressionUUID->"862b240e-7be2-4371-bfb1-e63f431ba553"],
-Cell[138387, 3139, 5975, 104, 76, "Print",ExpressionUUID->"e783901e-f0a5-4062-ad26-d1a8d5fa6294"]
-}, Open  ]],
-Cell[144377, 3246, 106490, 2091, 237, "Output",ExpressionUUID->"92e651b8-5d2d-4796-be1d-d7c794a9dd0f"]
+Cell[49957, 1115, 280, 4, 49, "Subsubsection",ExpressionUUID->"a9cf0a88-0618-4152-9f80-8876ce24a3c6"],
+Cell[CellGroupData[{
+Cell[50262, 1123, 6592, 161, 637, "Input",ExpressionUUID->"274d9b41-f22d-4844-8486-a7c26eb60caa"],
+Cell[CellGroupData[{
+Cell[56879, 1288, 442, 8, 43, "Print",ExpressionUUID->"11f45752-8ddd-471f-b78b-32fa567df037"],
+Cell[57324, 1298, 411, 7, 43, "Print",ExpressionUUID->"273c0199-c1f3-4db8-96cd-ec7a012f8edf"],
+Cell[57738, 1307, 411, 7, 43, "Print",ExpressionUUID->"cacafbcc-912f-458c-94cd-5ad3b930aa6c"],
+Cell[58152, 1316, 397, 7, 43, "Print",ExpressionUUID->"9d9e4551-ae97-423e-9bcf-b54d4d859bba"]
+}, Open  ]]
+}, Open  ]]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[58610, 1330, 338, 5, 49, "Subsubsection",ExpressionUUID->"c42432ab-bba7-45f2-8f9d-73c4be21f146"],
+Cell[CellGroupData[{
+Cell[58973, 1339, 1411, 39, 169, "Input",ExpressionUUID->"53391037-9d57-4855-9650-69e45cef23ea"],
+Cell[CellGroupData[{
+Cell[60409, 1382, 265, 5, 43, "Print",ExpressionUUID->"588d0384-9779-4445-a4af-f773e14884b8"],
+Cell[60677, 1389, 236, 4, 43, "Print",ExpressionUUID->"ddcec8d7-d158-4b88-a2be-ffd08f7e3692"]
 }, Open  ]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[250916, 5343, 325, 8, 76, "Section",ExpressionUUID->"ec0f9110-c08c-49cf-8168-e95fa03b58be"],
+Cell[60962, 1399, 5477, 128, 457, "Input",ExpressionUUID->"139c670b-916e-48b3-be9b-ff0012dc3b7c"],
 Cell[CellGroupData[{
-Cell[251266, 5355, 166, 3, 32, "Subsubsection",ExpressionUUID->"36a564f3-9667-4c74-9eee-498a4fb7cadd"],
+Cell[66464, 1531, 281, 5, 43, "Print",ExpressionUUID->"93d681e7-7fcd-496c-986d-05df07fc4467"],
+Cell[66748, 1538, 286, 5, 43, "Print",ExpressionUUID->"82270205-684c-418f-8143-099fe8dd1cba"],
+Cell[67037, 1545, 267, 5, 43, "Print",ExpressionUUID->"92b86004-6fdb-4ffc-8bd2-5fe0c5d7806b"]
+}, Open  ]]
+}, Open  ]]
+}, Closed]],
 Cell[CellGroupData[{
-Cell[251457, 5362, 1657, 40, 211, "Input",ExpressionUUID->"b7370530-4f03-4fdc-ad82-43f62857b7e6"],
-Cell[253117, 5404, 28505, 654, 211, "Output",ExpressionUUID->"d450968b-551a-4822-a3d0-faafec155ff4"]
+Cell[67365, 1557, 233, 4, 49, "Subsubsection",ExpressionUUID->"13da6bd3-ef64-4cc8-a970-a1054d8e41e6"],
+Cell[67601, 1563, 1661, 36, 169, "Input",ExpressionUUID->"3bf8d525-6733-4182-a42a-b30ff639a708"]
+}, Closed]]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[69311, 1605, 319, 5, 50, "Subsection",ExpressionUUID->"cf831fb6-486a-401d-9635-d78fc63291c0"],
+Cell[CellGroupData[{
+Cell[69655, 1614, 446, 7, 56, "Subsubsection",ExpressionUUID->"34330a43-6c9f-429c-9fd4-efdd702d4638"],
+Cell[70104, 1623, 1573, 29, 79, "Input",ExpressionUUID->"b2651e37-3d3c-435f-9719-78b8526ecbab"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[71738, 1659, 289, 5, 78, "Chapter",ExpressionUUID->"a0a930aa-b9ec-4b5e-8d36-6eb56e7edf9d"],
+Cell[72030, 1666, 49722, 1169, 3284, "Input",ExpressionUUID->"22bda154-9acb-4934-b086-f16c8f96ee23",
+ InitializationCell->True]
+}, Closed]],
+Cell[CellGroupData[{
+Cell[121789, 2840, 467, 10, 80, "Title",ExpressionUUID->"2dad5fb9-fdca-4385-b630-529c3cc150d7"],
+Cell[CellGroupData[{
+Cell[122281, 2854, 247, 4, 56, "Subsubsection",ExpressionUUID->"2235ba26-cf26-44c6-8f71-2bbcf7ddbca8"],
+Cell[122531, 2860, 5723, 113, 259, "Input",ExpressionUUID->"fd59f28c-5282-49e9-bafb-8236bc9e8cd4"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[128291, 2978, 191, 3, 56, "Subsubsection",ExpressionUUID->"d781aa6f-1c36-4106-8c8a-ca1efb5a4d5f"],
+Cell[CellGroupData[{
+Cell[128507, 2985, 3731, 70, 187, "Input",ExpressionUUID->"438ab07c-3f1e-4695-ad9a-cf93a5eb67c2"],
+Cell[CellGroupData[{
+Cell[132263, 3059, 4551, 76, 149, "Print",ExpressionUUID->"1797ddbb-0926-4bd6-856f-98ae51a03d8f"],
+Cell[136817, 3137, 2991, 44, 43, "Print",ExpressionUUID->"7e70284d-5be5-4724-bd34-e4a7b898e13d"],
+Cell[139811, 3183, 6691, 118, 117, "Print",ExpressionUUID->"f2e542be-7565-44d5-a151-9bdf7063565e"]
+}, Open  ]],
+Cell[146517, 3304, 79983, 1623, 274, "Output",ExpressionUUID->"c7672a3a-809c-4745-a1af-f3c1e4272802"]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[226549, 4933, 325, 8, 94, "Section",ExpressionUUID->"ec0f9110-c08c-49cf-8168-e95fa03b58be"],
+Cell[CellGroupData[{
+Cell[226899, 4945, 166, 3, 56, "Subsubsection",ExpressionUUID->"36a564f3-9667-4c74-9eee-498a4fb7cadd"],
+Cell[CellGroupData[{
+Cell[227090, 4952, 1657, 40, 277, "Input",ExpressionUUID->"b7370530-4f03-4fdc-ad82-43f62857b7e6"],
+Cell[228750, 4994, 29042, 660, 310, "Output",ExpressionUUID->"bbb40f24-2125-4906-bc1d-5eff70b0a1fa"]
 }, Open  ]]
 }, Open  ]]
 }, Open  ]]
